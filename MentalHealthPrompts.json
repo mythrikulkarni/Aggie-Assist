@@ -1,3 +1,35 @@
 train_data = [
-  
+  {
+    "context": "Mental illness is a medical condition that can affect a person's thoughts, emotions, and behavior, making it challenging to carry out daily activities. It's important to recognize that mental illness is not a sign of weakness or a lack of intelligence, but rather the result of biological changes in the brain. Mental illnesses vary in severity, ranging from mild conditions like phobias to more serious disorders like major depression, bipolar disorder, or schizophrenia, which may require hospitalization. However, with proper treatment, individuals with mental illness can lead fulfilling lives. Treatment may involve medication, therapy, or a combination of both, along with social support. It's encouraging to know that 70-90% of people who receive treatment for mental illness experience an improvement in symptoms and quality of life. It's crucial to remember that seeking help for mental illness is a sign of strength and courage, and resources are available on campus and in the community for those who need support."
+  "qas": [
+    {
+      "id": "00001",
+      "is_impossible": False,
+      "question": "What does it mean to have a mental illness?",
+      "answers": [
+        {
+          "text": "Mental illness is a medical condition that can affect a person's thoughts, emotions, and behavior, making it challenging to carry out daily activities.",
+          "answer_start": 0,
+        }
+      ],
+    }
+  ],
+},
+
+  {
+    "context": "Mental illness affects a significant portion of the American population, with estimates suggesting that 1 in 5 adults and 1 in 24 adults experience a serious mental illness. Mental illness is indiscriminate, affecting people from all walks of life regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. However, certain mental health conditions may be more prevalent in certain populations. For example, eating disorders are more common in females, and attention deficit/hyperactivity disorder tends to affect children. Mental illnesses can occur at any age, but they often manifest in the prime of a person's life, with 75% of mental health conditions developing by age 24. This can make it difficult to recognize and treat mental health issues, particularly in young people, as symptoms may be masked by normal personality and behavioral changes during adolescence. It's important for parents and caretakers to be aware of this and to pay attention to changes in a child's mood, personality, habits, or social withdrawal. In cases where these changes occur in children under 18, they are referred to as serious emotional disturbances (SEDs). Resources are available on campus and in the community to help those affected by mental illness, and seeking help is a sign of strength and self-care."
+  "qas": [
+    {
+      "id": "00002",
+      "is_impossible": False,
+      "question": "Who does mental illness affect?",
+      "answers": [
+        {
+          "text": "Mental illness affects a significant portion of the American population, with estimates suggesting that 1 in 5 adults and 1 in 24 adults experience a serious mental illness.",
+          "answer_start": 0,
+        }
+      ],
+    }
+  ],
+},
 ]
