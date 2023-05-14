@@ -122,24 +122,6 @@
   },
 
   {
-    "context": "The Aggie Compass Basic Needs Center has a list of resources for mental wellness, including those for immediate services, campus and community resources, mental health organizations, and resources specific for substance abuse, all summarized here: https://aggiecompass.ucdavis.edu/mental-wellness. The Aggie Mental Health website also has a compilation of services and options on campus: https://mentalhealth.ucdavis.edu/i-need-help. ",
-    "qas": [
-      {
-        "id": "00023",
-        "is_impossible": false,
-        "question": "The Aggie Compass Basic Needs Center has a list of resources for mental wellness, including those for immediate services, campus and community resources, mental health organizations, and resources specific for substance abuse, all summarized here: https://aggiecompass.ucdavis.edu/mental-wellness. The Aggie Mental Health website also has a compilation of services and options on campus: https://mentalhealth.ucdavis.edu/i-need-help. ",
-        "answers": 
-        [
-          {
-            "text": "Brandon Sanderson",
-            "answer_start": 0
-          }
-        ]
-      }
-    ]
-  },
-
-  {
     "context": "Sometimes, consumers of mental health services may consider participating in a research study when they have not experienced improvement despite having tried a variety of medications and treatments. Research studies (also known as clinical trials) may involve the use of new medications or new treatment approaches whose safety and effectiveness is being tested. While we support innovation in the field, consumers should be cautioned that there are risks associated with clinical trials – make sure you’re aware of them before you enroll.",
     "qas": [
       {
@@ -246,12 +228,29 @@
       }
     ]
   },
+  {
+    "context": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help. Often, there is no magic bullet for a specific mental health issue, but approaching the problem with some combination of the aforementioned methods is usually effective.",
+    "qas": [
+      {
+        "id": "00030",
+        "is_impossible": false,
+        "question": "What are some tools that can help cure mental health problems?",
+        "answers": 
+        [
+          {
+            "text": "Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
 
   {
     "context": "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events. For students at UC Davis specifically, academic, social, and financial issues are usually the major contributing factors to depression and other mental health issues.",
     "qas": [
       {
-        "id": "00030",
+        "id": "00031",
         "is_impossible": false,
         "question": "What causes mental health problems?",
         "answers": 
@@ -263,5 +262,55 @@
         ]
       }
     ]
-  }
+  },
+  {
+    "context": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+    "qas": [
+      {
+        "id": "00031",
+        "is_impossible": false,
+        "question": "What does the OEOES offer to help with test-taking anxiety?",
+        "answers": 
+        [
+          {
+            "text": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },  {
+    "context": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+    "qas": [
+      {
+        "id": "00032",
+        "is_impossible": false,
+        "question": "What does the OEOES offer to help with test-taking anxiety?",
+        "answers": 
+        [
+          {
+            "text": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Clearly a large body of research evidence points to importance of lifestyle factors in medical and psychiatric diseases. Research also suggest that positive modification of lifestyle factors is essential for both improvement and maintaining of physical and mental health. Each individual is unique and hence requires their own unique set of programmes of lifestyle modification. Indeed, it is helpful to recognise that each lifestyle factor is linked to and influences other lifestyle factors through various underlying mechanisms such as improvement in inflammatory processes which can result from inactivity, overconsumption of unhealthy/inflammatory foods, obesity and smoking. Whilst it may be easier to take a step by step approach by modifying of one lifestyle factor at one time, efforts should be made to modify all lifestyle factors in conjunctions, since they tend to work synergistically and are likely to have greater effect on positively modify morbidity and mortality related to physical and mental health.  Source: https://www.psychiatria-danubina.com/UserDocsImages/pdf/dnb_vol31_noSuppl%203/dnb_vol31_noSuppl%203_217.pdf",
+    "qas": [
+      {
+        "id": "00033",
+        "is_impossible": false,
+        "question": "How can obesity impact mental health?",
+        "answers": 
+        [
+          {
+            "text": "Each lifestyle factor is linked to and influences other lifestyle factors through various underlying mechanisms such as improvement in inflammatory processes which can result from inactivity, over consumption of unhealthy/inflammatory foods, obesity and smoking. ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
 ]
