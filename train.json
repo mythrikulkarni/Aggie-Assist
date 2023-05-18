@@ -9,7 +9,7 @@
         "answers": 
         [
           {
-            "text": "There are many types of mental health professionals. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research. To find resources on campus for mental health, here's a helpful resource: https://shcs.ucdavis.edu/services/counseling-services",
+            "text": "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research. To find resources on campus for mental health, here's a helpful resource: https://shcs.ucdavis.edu/services/counseling-services",
             "answer_start": 0
           }
         ]
@@ -35,7 +35,7 @@
   },
   
     {
-    "context": "Beginning treatment is a big step and can be very overwhelming. It is important to continue involvement in the treatment process as much as possible. Some questions you will need to have answered include: What is known about the cause of this particular illness? Are there other diagnoses where these symptoms are common? Do you normally include a physical or neurological examination? Are there any additional tests or exams that you would recommend at this point? Would you advise an independent opinion from another psychiatrist at this point? What program of treatment is the most helpful with this diagnosis? Will this program involve services by other specialists? If so, who will be responsible for coordinating these services? What medications are generally used with this diagnosis? What is the biological effect of this medication, and what do you expect it to accomplish? What are some effects that this medication might have on my academic performance or ability to study? What are the risks associated with the medication? How soon will we be able to tell if the medication is effective, and how will we know? How much experience do you have in treating individuals with this illness?",
+    "context": "Some questions you will need to have answered include: What is known about the cause of this particular illness? Are there other diagnoses where these symptoms are common? Do you normally include a physical or neurological examination? Are there any additional tests or exams that you would recommend at this point? Would you advise an independent opinion from another psychiatrist at this point? What program of treatment is the most helpful with this diagnosis? Will this program involve services by other specialists? If so, who will be responsible for coordinating these services? What medications are generally used with this diagnosis? What is the biological effect of this medication, and what do you expect it to accomplish? What are some effects that this medication might have on my academic performance or ability to study? What are the risks associated with the medication? How soon will we be able to tell if the medication is effective, and how will we know? How much experience do you have in treating individuals with this illness?",
     "qas": [
       {
         "id": "00003",
@@ -45,14 +45,14 @@
         [
           {
             "text": "Some questions you will need to have answered include: What program of treatment is the most helpful with this diagnosis? Will this program involve services by other specialists? If so, who will be responsible for coordinating these services? What medications are generally used with this diagnosis? What is the biological effect of this medication, and what do you expect it to accomplish? What are some effects that this medication might have on my academic performance or ability to study? What are the risks associated with the medication? How soon will we be able to tell if the medication is effective, and how will we know?",
-            "answer_start": 150
+            "answer_start": 0
           }
         ]
       }
     ]
   },
   {
-    "context": "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/. Secondly, there are people and places all over campus that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional.",
+    "context": "Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/. Secondly, there are people and places all over campus that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional.",
     "qas": [
       {
         "id": "00004",
@@ -61,15 +61,15 @@
         "answers": 
         [
           {
-            "text": "The best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/",
-            "answer_start": 109
+            "text": "Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/",
+            "answer_start": 0
           }
         ]
       }
     ]
   },
   {
-    "context": "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    1. What is the medication supposed to do? 2. When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? 4. What are the side effects and what should be done if they occur? 5. What do I do if a dose is missed? 6. Is there any written information available about this medication? 7. Are there other medications that might be appropriate? 8. If so, why do you prefer the one you have chosen? 9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? 10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks.",
+    "context": "What is the medication supposed to do? When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? What are the side effects and what should be done if they occur? What do I do if a dose is missed? Is there any written information available about this medication? Are there other medications that might be appropriate? If so, why do you prefer the one you have chosen? How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? All medications should be taken as directed.",
     "qas": [
       {
         "id": "00005",
@@ -79,7 +79,7 @@
         [
           {
             "text": "What is the medication supposed to do? When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? What are the side effects and what should be done if they occur? What do I do if a dose is missed? Is there any written information available about this medication? Are there other medications that might be appropriate? If so, why do you prefer the one you have chosen? How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? All medications should be taken as directed.",
-            "answer_start": 145
+            "answer_start": 0
           }
         ]
       }
@@ -163,7 +163,7 @@
         "answers": 
         [
           {
-            "text": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be removed from it.",
+            "text": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. The plan is built especially for students, and students are actively involved in its design.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be waived.",
             "answer_start": 0
           }
         ]
@@ -555,7 +555,7 @@
     ]
   },
   {
-    "context": "It is quite common for mental health issues to be stigmatized for social, financial, and religious reasons. If a parent or other family member dismisses your mental health struggles, one effective solution is to try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
+    "context": "Try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
     "qas": [
       {
         "id": "00033",
@@ -565,14 +565,14 @@
         [
           {
             "text": "Try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
-            "answer_start": 212
+            "answer_start": 0
           }
         ]
       }
     ]
   },
   {
-    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesickness, which both involve leaving your room or apartment for classes and any events that catch your eye. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesicknesses. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
     "qas": [
       {
         "id": "00034",
@@ -649,7 +649,7 @@
         "answers": 
         [
           {
-            "text": "General tips include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy and consistent eating schedule, and writing down a to-do list for the next day. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
+            "text": "General tips for reducing insomnia include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy and consistent eating schedule, and writing down a to-do list for the next day. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
             "answer_start": 0
           }
         ]
@@ -683,7 +683,7 @@
         "answers": 
         [
           {
-            "text": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow for extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
+            "text": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow for extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early  (within the first 2 weeks of a quarter) so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
             "answer_start": 0
           }
         ]
