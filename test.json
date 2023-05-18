@@ -1,4 +1,419 @@
 [
+  {
+    "context": "The best place for you find help in terms of your physical health is going to the Student Health and Counceling Services (SHCS) by appointment or by drop-in. There are SHCS Advice nurses that are available by appointment to help you discuss some mental or physical health issues. Learn more about it here: https://shcs.ucdavis.edu/services/acute-crisis-care. Additional help can be found on https://docs.google.com/document/d/1y8c68m12DyACptbMXLj1FBDE77QcsKgL4ifxlkC90a4/edit#heading=h.r616d7wnj29t ",
+    "qas": [
+      {
+        "id": "00062",
+        "is_impossible": false,
+        "question": "I’m having a hard time coping with a physical health problem. Where can I find help?",
+        "answers": 
+        [
+          {
+            "text": "The best place for you find help in terms of your physical health is going to the Student Health and Counceling Services (SHCS) by appointment or by drop-in. There are SHCS Advice nurses that are available by appointment to help you discuss some mental or physical health issues. Learn more about it here: https://shcs.ucdavis.edu/services/acute-crisis-care.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Lack of motivation can have many causes and often contributes to other issues such as low class attendance and poor study behaviors like procrastination. The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaches where they can help restore your motivation and address procrastination  https://opportunity.ucdavis.edu/services/scls/appointments.",
+    "qas": [
+      {
+        "id": "00063",
+        "is_impossible": false,
+        "question": "I'm lacking motivation in going to class or doing my homework, I want to fix this.",
+        "answers": 
+        [
+          {
+            "text": "Lack of motivation can have many causes and often contributes to other issues such as low class attendance and poor study behaviors like procrastination. The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaches where they can help restore your motivation and address procrastination  https://opportunity.ucdavis.edu/services/scls/appointments",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Students give many different reasons why they may drink alcohol, including liking the sensations obtained, peer pressure and to be apart of a group. Sometimes alcohol is used to avoid difficult situations that may arise at school, work, family and friends. Others use alcohol to avoid uncomfortable feelings, like anxiety or sadness. A serious problem can develop quickly, especially among college students. More info here: https://shcs.ucdavis.edu/health-topic/alcohol-abuse",
+    "qas": [
+      {
+        "id": "00064",
+        "is_impossible": false,
+        "question": "What are some signs I have a drinking problem?",
+        "answers": 
+        [
+          {
+            "text": "Students give many different reasons why they may drink alcohol, including liking the sensations obtained, peer pressure and to be apart of a group. Sometimes alcohol is used to avoid difficult situations that may arise at school, work, family and friends. Others use alcohol to avoid uncomfortable feelings, like anxiety or sadness. A serious problem can develop quickly, especially among college students. More info here: https://shcs.ucdavis.edu/health-topic/alcohol-abuse",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There some ways on what can be done. One step is finding and utilizing ways on how to get calm. Another is indentify your 'Anger Triggers'. You could try checking your thoughts before acting on your anger. Most importantly, you need to communicate your issues. The Student Health Counceling Services provides acute care, drop-in services, brief individual therapy, group therapy, and referrals for ongoing therapy. https://shcs.ucdavis.edu/health-topic/anger-management",
+    "qas": [
+      {
+        "id": "00065",
+        "is_impossible": false,
+        "question": "I need help with my anger management. How can I get help with this?",
+        "answers": 
+        [
+          {
+            "text": "One step is finding and utilizing ways on how to get calm. Another is indentify your 'Anger Triggers'. You could try checking your thoughts before acting on your anger. Most importantly, you need to communicate your issues. The Student Health Counceling Services provides acute care, drop-in services, brief individual therapy, group therapy, and referrals for ongoing therapy. https://shcs.ucdavis.edu/health-topic/anger-management",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There are a few spots on campus to do so. One is on top of the hutchison parking lot a night  as there will be very few people to care. If you are a music major, you could go into one of the soundproof rooms in the music building. Just be safe in doing these activities. There are also resources that provides professionals that will you hear you in on your problems. More info here: https://shcs.ucdavis.edu/schedule-or-cancel-appointment ",
+    "qas": [
+      {
+        "id": "00066",
+        "is_impossible": false,
+        "question": "Where can I just scream out my emotions where no one can hear me?",
+        "answers": 
+        [
+          {
+            "text": "There are a few spots on campus to do so. One is on top of the hutchison parking lot a night  as there will be very few people to care. If you are a music major, you could go into one of the soundproof rooms in the music building. Just be safe in doing these activities. There are also resources that provides professionals that will you hear you in on your problems. More info here: https://shcs.ucdavis.edu/schedule-or-cancel-appointment ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "To help you manage your body dysmorphia and eating disorders, definitely look for a therapist. There is always one available here at UC Davis. A support group can help you go through the process of becoming the person you are happy with. Additionally, you could look for a dietitian on campus to help you manage your eating habits and get you into a routine. For more information about scheduling an appointment with a dietitian go to this website: https://shcs.ucdavis.edu/services/other-services/dietician",
+    "qas": [
+      {
+        "id": "00067",
+        "is_impossible": false,
+        "question": "Where can I get help with my body dysmorphia and eating disorders at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "To help you manage your body dysmorphia and eating disorders, definitely look for a therapist. There is always one available here at UC Davis. A support group can help you go through the process of becoming the person you are happy with. Additionally, you could look for a dietitian on campus to help you manage your eating habits and get you into a routine. For more information about scheduling an appointment with a dietitian go to this website: https://shcs.ucdavis.edu/services/other-services/dietician",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Incoming freshmen often experience difficulties transitioning from high school to college. It takes time to learn to cope with the expectations of a new academic environment and adjust to university-level academic rigor.  The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaching and Learning Strategies to support your transition. They offer workshops and one-on-one appointments with a Success Coach. Another resource would be academic advisors. Your advisors are here to support you during your transition and throughout your academic career at UC Davis. You can make an appointment with your advisors through the appointment system: appointments.ucdavis.edu",
+    "qas": [
+      {
+        "id": "00068",
+        "is_impossible": false,
+        "question": "I'm a first year/freshman and I am having trouble transistioning from high school to college, any tips?",
+        "answers": 
+        [
+          {
+            "text": "Incoming freshmen often experience difficulties transitioning from high school to college. It takes time to learn to cope with the expectations of a new academic environment and adjust to university-level academic rigor.  The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaching and Learning Strategies to support your transition. They offer workshops and one-on-one appointments with a Success Coach. Another resource would be academic advisors. Your advisors are here to support you during your transition and throughout your academic career at UC Davis. You can make an appointment with your advisors through the appointment system: appointments.ucdavis.edu",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There are many ways to express these emotions. Bottling your emotions can be unhealthy as those emotions need to be released. Mental health can be described as the ability to cope with emotions, whether it be sad or happy. It's important to let it out. You could go inside a car or isolated area and scream, or isten to music to cry to. There's no shame in expressing that! You need to express your own feelings first and validate those feelings. Remember, you are not alone.",
+    "qas": [
+      {
+        "id": "00069",
+        "is_impossible": false,
+        "question": "I just experienced a loss. I'm having trouble expressing these emotions. What are some suggestions on letting out these emotions?",
+        "answers": 
+        [
+          {
+            "text": "There are many ways to express these emotions. Bottling your emotions can be unhealthy as those emotions need to be released. Mental health can be described as the ability to cope with emotions, whether it be sad or happy. It's important to let it out. You could go inside a car or isolated area and scream, or isten to music to cry to. There's no shame in expressing that! You need to express your own feelings first and validate those feelings. Remember, you are not alone.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis Student Health and Counseling Services (SHCS) offers counseling and support services for students dealing with stress and mental health concerns. They also have resources for stress management, mindfulness, and other wellness activities.",
+    "qas": [
+      {
+        "id": "000070",
+        "is_impossible": false,
+        "question": "I'm feeling overwhelmed with schoolwork and stress. Where can I find resources for stress management and mental health support on campus?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis Student Health and Counseling Services (SHCS) offers counseling and support services for students dealing with stress and mental health concerns. They also have resources for stress management, mindfulness, and other wellness activities.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers mental health counseling services, as well as workshops and support groups for students dealing with anxiety and depression. They also have an online self-help portal called TAO Connect that provides tools and resources for managing mental health.",
+    "qas": [
+      {
+        "id": "000071",
+        "is_impossible": false,
+        "question": "I'm experiencing symptoms of anxiety or depression. What are some resources I can use to find help on campus?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers mental health counseling services, as well as workshops and support groups for students dealing with anxiety and depression. They also have an online self-help portal called TAO Connect that provides tools and resources for managing mental health.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers sleep consultations and sleep hygiene education for students experiencing sleep difficulties. They also offer resources for relaxation and mindfulness practices.",
+    "qas": [
+      {
+        "id": "000072",
+        "is_impossible": false,
+        "question": "I'm having trouble sleeping and it's affecting my daily life. What resources are available for sleep support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers sleep consultations and sleep hygiene education for students experiencing sleep difficulties. They also offer resources for relaxation and mindfulness practices.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers individual and group counseling services for students dealing with disordered eating habits. They also have resources for nutritional counseling and support groups for eating disorder recovery.",
+    "qas": [
+      {
+        "id": "000072",
+        "is_impossible": false,
+        "question": "I'm struggling with disordered eating habits. Where can I find resources for eating disorder treatment and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers individual and group counseling services for students dealing with disordered eating habits. They also have resources for nutritional counseling and support groups for eating disorder recovery.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers individual and couples counseling services for students dealing with relationship issues. They also have resources for communication skills and relationship education.",
+    "qas": [
+      {
+        "id": "000073",
+        "is_impossible": false,
+        "question": "I'm experiencing relationship problems and it's affecting my mental health. What resources are available for relationship counseling and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers individual and couples counseling services for students dealing with relationship issues. They also have resources for communication skills and relationship education.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers trauma-informed counseling services, as well as resources for trauma education and support groups.",
+    "qas": [
+      {
+        "id": "000074",
+        "is_impossible": false,
+        "question": "I'm dealing with trauma or PTSD. What resources are available for trauma therapy and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers trauma-informed counseling services, as well as resources for trauma education and support groups.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers substance use counseling services, as well as resources for addiction recovery and support groups. They also have partnerships with local treatment centers and referral services.",
+    "qas": [
+      {
+        "id": "000075",
+        "is_impossible": false,
+        "question": "I'm struggling with addiction or substance abuse. What resources are available for substance use treatment and recovery?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers substance use counseling services, as well as resources for addiction recovery and support groups. They also have partnerships with local treatment centers and referral services.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis Student Health and Wellness Center offers ADHD evaluation and treatment services for students, as well as resources for academic support and accommodations.",
+    "qas": [
+      {
+        "id": "000076",
+        "is_impossible": false,
+        "question": "I'm experiencing symptoms of ADHD or other attention-related disorders. What resources are available for diagnosis and treatment?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis Student Health and Wellness Center offers ADHD evaluation and treatment services for students, as well as resources for academic support and accommodations.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers counseling services and support groups for international students dealing with cultural adjustment issues. They also have resources for cross-cultural education and community building.",
+    "qas": [
+      {
+        "id": "000077",
+        "is_impossible": false,
+        "question": "I'm an international student and I'm struggling with mental health issues related to cultural adjustment. Where can I find resources and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers counseling services and support groups for international students dealing with cultural adjustment issues. They also have resources for cross-cultural education and community building.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "If you or someone you know is in immediate danger, call 911 or go to the nearest emergency room. UC Davis SHCS offers crisis counseling services and has an after-hours crisis line at 530-752-2349. You can also contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or use their online chat feature.",
+    "qas": [
+      {
+        "id": "000078",
+        "is_impossible": false,
+        "question": "I'm experiencing suicidal thoughts or know someone who is. What should I do and where can I find immediate help?",
+        "answers": 
+        [
+          {
+            "text": "If you or someone you know is in immediate danger, call 911 or go to the nearest emergency room. UC Davis SHCS offers crisis counseling services and has an after-hours crisis line at 530-752-2349. You can also contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or use their online chat feature.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+    "qas": [
+      {
+        "id": "000079",
+        "is_impossible": false,
+        "question": "Are there any support groups or workshops for students dealing with specific mental health concerns?",
+        "answers": 
+        [
+          {
+            "text": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "",
+    "qas": [
+      {
+        "id": "000080",
+        "is_impossible": false,
+        "question": "Are there any resources available for students who are experiencing financial difficulties related to mental health care?",
+        "answers": 
+        [
+          {
+            "text": "There are lots of resources available for students who are experiencing financial difficulties related to mental health care. The UC Davis Student Health and Counseling Services (SHCS) offers mental health services at low or no cost to registered UC Davis students who have paid the UC Davis registration fees. They also have a financial assistance program for students who need help covering the cost of mental health services. Here’s more on SHCS:  https://shcs.ucdavis.edu/.The UC Davis Financial Aid and Scholarships Office offers emergency loan programs for students who have unexpected financial difficulties. Here’s more information: https://financialaid.ucdavis.edu/loans/short-term.The UC Davis Health Patient Financial Services department can help students understand their medical bills and insurance coverage, and can offer payment plans or financial assistance programs for those who qualify. Here’s more information: https://health.ucdavis.edu/medicalcenter/patients/financial-assistance.html",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis offers a variety of mental health services for its students. Some of these services include: Counseling Services: UC Davis Counseling Services provides individual and group counseling to students. Counseling services are free and confidential to registered UC Davis students. Psychiatry Services: UC Davis Psychiatry Services provides psychiatric evaluations and medication management to students in conjunction with counseling services. Crisis Services: UC Davis has a crisis line available 24/7 for students in need of immediate assistance. Students can call (530) 752-2349 to speak with a mental health professional. Support Groups: UC Davis offers a range of support groups on various topics, such as anxiety, depression, and substance abuse. To access any of these services, students can call (530) 752-0871 to schedule an appointment or visit the Student Health and Counseling Services website for more information.",
+    "qas": [
+      {
+        "id": "000081",
+        "is_impossible": false,
+        "question": "What mental health services are available to UC Davis students?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis offers a variety of mental health services for its students. Some of these services include: Counseling Services: UC Davis Counseling Services provides individual and group counseling to students. Counseling services are free and confidential to registered UC Davis students. Psychiatry Services: UC Davis Psychiatry Services provides psychiatric evaluations and medication management to students in conjunction with counseling services. Crisis Services: UC Davis has a crisis line available 24/7 for students in need of immediate assistance. Students can call (530) 752-2349 to speak with a mental health professional. Support Groups: UC Davis offers a range of support groups on various topics, such as anxiety, depression, and substance abuse. To access any of these services, students can call (530) 752-0871 to schedule an appointment or visit the Student Health and Counseling Services website for more information.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "To make an appointment with a mental health professional on campus, you can follow these steps:Contact Student Health and Counseling Services (SHCS): You can call SHCS at (530) 752-2349 to schedule an appointment with a mental health professional. The staff will ask you some basic questions to determine the urgency of your situation and will schedule an appointment for you based on your availability. Complete Forms: Before your first appointment, you will need to complete some forms, including a personal information form, a consent form, and a brief questionnaire about your mental health history. You can complete these forms online via the SHCS patient portal. Attend Your Appointment: On the day of your appointment, make sure to arrive early and check in at the SHCS front desk. You will then be directed to meet with your mental health professional. It's important to note that there may be a wait time for appointments, especially during peak periods, so it's recommended that you schedule an appointment as soon as possible. If you are in crisis or need immediate assistance, you can call the SHCS crisis line at (530) 752-2349 or 911.",
+    "qas": [
+      {
+        "id": "000082",
+        "is_impossible": false,
+        "question": "How do I make an appointment with a mental health professional on campus?",
+        "answers": 
+        [
+          {
+            "text": "To make an appointment with a mental health professional on campus, you can follow these steps:Contact Student Health and Counseling Services (SHCS): You can call SHCS at (530) 752-2349 to schedule an appointment with a mental health professional. The staff will ask you some basic questions to determine the urgency of your situation and will schedule an appointment for you based on your availability. Complete Forms: Before your first appointment, you will need to complete some forms, including a personal information form, a consent form, and a brief questionnaire about your mental health history. You can complete these forms online via the SHCS patient portal. Attend Your Appointment: On the day of your appointment, make sure to arrive early and check in at the SHCS front desk. You will then be directed to meet with your mental health professional. It's important to note that there may be a wait time for appointments, especially during peak periods, so it's recommended that you schedule an appointment as soon as possible. If you are in crisis or need immediate assistance, you can call the SHCS crisis line at (530) 752-2349 or 911",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "To get accommodations for mental health needs in the classroom, you should contact the Student Disability Center. The UC Davis Student Disability Center (SDC) provides a range of services and accommodations to support students with mental health conditions. The SDC can work with students and their instructors to develop accommodations that support their mental health needs, such as extended time on exams, note-taking assistance, or flexible deadlines. They also provide mental health advising, emotional support animals, and more. Visit this link for more information: https://sdc.ucdavis.edu/students",
+    "qas": [
+      {
+        "id": "000083",
+        "is_impossible": false,
+        "question": "What is the process for getting accommodations for mental health needs in the classroom or for exams?",
+        "answers": 
+        [
+          {
+            "text": "To get accommodations for mental health needs in the classroom, you should contact the Student Disability Center. The UC Davis Student Disability Center (SDC) provides a range of services and accommodations to support students with mental health conditions. The SDC can work with students and their instructors to develop accommodations that support their mental health needs, such as extended time on exams, note-taking assistance, or flexible deadlines. They also provide mental health advising, emotional support animals, and more. Visit this link for more information: https://sdc.ucdavis.edu/students",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world. It’s important to know that it is possible to have good mental health even if you have a mental illness. Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone",
+    "qas": [
+      {
+        "id": "00084",
+        "is_impossible": false,
+        "question": "What is mental health, and how does it differ from mental illness?",
+        "answers": 
+        [
+          {
+            "text": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world.It’s important to know that it is possible to have good mental health even if you have a mental illness.Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
 {
     "context": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world.It’s important to know that it is possible to have good mental health even if you have a mental illness. Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone.",
     "qas": [
