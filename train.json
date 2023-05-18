@@ -572,7 +572,7 @@
     ]
   },
   {
-    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesickness. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are also ways to reduce feelings of homesickness. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
     "qas": [
       {
         "id": "00034",
