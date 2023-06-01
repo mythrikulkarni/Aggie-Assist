@@ -1,0 +1,2032 @@
+[
+    {
+    "context": "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research. To find resources on campus for mental health, here's a helpful resource: https://shcs.ucdavis.edu/services/counseling-services",
+    "qas": [
+      {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "What is the difference between mental health professionals?",
+        "answers": 
+        [
+          {
+            "text": "There are many types of mental health professionals. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research. To find resources on campus for mental health, here's a helpful resource: https://shcs.ucdavis.edu/services/counseling-services",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "context": "Feeling comfortable with the professional you are working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research. After an initial counseling appointment at UC Davis, you will be matched with an appropriate professional or healthcare provider for your needs and financial situation.",
+    "qas": [
+      {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "How can I find a mental health professional right for myself?",
+        "answers": 
+        [
+          {
+            "text": "After an initial counseling appointment at UC Davis, you will be matched with an appropriate professional or healthcare provider for your needs and financial situation.",
+            "answer_start": 186
+          }
+        ]
+      }
+    ]
+  },
+  
+    {
+    "context": "Beginning treatment is a big step and can be very overwhelming. It is important to continue involvement in the treatment process as much as possible. Some questions you will need to have answered include: What is known about the cause of this particular illness? Are there other diagnoses where these symptoms are common? Do you normally include a physical or neurological examination? Are there any additional tests or exams that you would recommend at this point? Would you advise an independent opinion from another psychiatrist at this point? What program of treatment is the most helpful with this diagnosis? Will this program involve services by other specialists? If so, who will be responsible for coordinating these services? What medications are generally used with this diagnosis? What is the biological effect of this medication, and what do you expect it to accomplish? What are some effects that this medication might have on my academic performance or ability to study? What are the risks associated with the medication? How soon will we be able to tell if the medication is effective, and how will we know? How much experience do you have in treating individuals with this illness?",
+    "qas": [
+      {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "If I become involved in treatment what do I need to know?",
+        "answers": 
+        [
+          {
+            "text": "Some questions you will need to have answered include: What program of treatment is the most helpful with this diagnosis? Will this program involve services by other specialists? If so, who will be responsible for coordinating these services? What medications are generally used with this diagnosis? What is the biological effect of this medication, and what do you expect it to accomplish? What are some effects that this medication might have on my academic performance or ability to study? What are the risks associated with the medication? How soon will we be able to tell if the medication is effective, and how will we know?",
+            "answer_start": 150
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/. Secondly, there are people and places all over campus that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional.",
+    "qas": [
+      {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "Where else can I get help?",
+        "answers": 
+        [
+          {
+            "text": "The best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. For more information about resources provided by UC Davis, visit the Aggie Mental Health website: https://mentalhealth.ucdavis.edu/",
+            "answer_start": 109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    1. What is the medication supposed to do? 2. When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? 4. What are the side effects and what should be done if they occur? 5. What do I do if a dose is missed? 6. Is there any written information available about this medication? 7. Are there other medications that might be appropriate? 8. If so, why do you prefer the one you have chosen? 9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? 10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks.",
+    "qas": [
+      {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "What should I know before starting a new medication?",
+        "answers": 
+        [
+          {
+            "text": "What is the medication supposed to do? When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? What are the side effects and what should be done if they occur? What do I do if a dose is missed? Is there any written information available about this medication? Are there other medications that might be appropriate? If so, why do you prefer the one you have chosen? How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? All medications should be taken as directed.",
+            "answer_start": 145
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "It is not uncommon for people to stop taking their medication when they feel their symptoms are under control. Others may choose to stop taking their medication because of its side effects, without realizing that most side effects can be effectively managed. While it may seem reasonable to stop taking the medication, the problem is that most often, the symptoms will return. If you are taking medication, it is very important that you work together with your doctor before making decisions about any changes in your treatment.Another problem with stopping medication, particularly for stopping it abruptly, is that you may develop withdrawal symptoms that can be very unpleasant. If you and your doctor feel a trial off your medicine is a good idea, it is necessary to slowly decrease the dosage of medications so that these symptoms don’t occur.It is important that your doctor and pharmacist work together to make sure your medications are working safely and effectively. You should talk with them about how you are doing and if there are side effects that make you unwilling to continue treatment. They will work with you to develop strategies for minimizing these side effects, or will create a plan for switching to a different treatment that will be a better fit.",
+    "qas": [
+      {
+        "id": "00006",
+        "is_impossible": false,
+        "question": "If I feel better after taking medication, does this mean I am 'cured' and can stop taking it?",
+        "answers": 
+        [
+          {
+            "text": "It is not uncommon for people to stop taking their medication when they feel their symptoms are under control. Others may choose to stop taking their medication because of its side effects, without realizing that most side effects can be effectively managed. While it may seem reasonable to stop taking the medication, the problem is that most often, the symptoms will return. Another problem with stopping medication, particularly for stopping it abruptly, is that you may develop withdrawal symptoms that can be very unpleasant. If you and your doctor feel a trial off your medicine is a good idea, it is necessary to slowly decrease the dosage of medications so that these symptoms don’t occur.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Ship (University of California Student Health Insurance Plan) typically provides coverage for prescription medications. However, the specifics of the coverage may vary depending on the plan and the medication. It's important to check the plan details and formulary (list of covered medications) to see what medications are covered and what costs or restrictions may apply. Additionally, some medications may require prior authorization or step therapy, which means that your doctor may need to provide additional information to the insurance company before the medication will be covered. It's always a good idea to check with the insurance company or the pharmacy to confirm coverage and any associated costs.",
+    "qas": [
+      {
+        "id": "00007",
+        "is_impossible": false,
+        "question": "How can I get help paying for my medication?",
+        "answers": 
+        [
+          {
+            "text": "UC Ship (University of California Student Health Insurance Plan) typically provides coverage for prescription medications. However, the specifics of the coverage may vary depending on the plan and the medication. It's important to check the plan details and formulary (list of covered medications) to see what medications are covered and what costs or restrictions may apply.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Student Health and Counseling Services (SHCS) offers both medical and mental health acute care services on the first floor of the Student Health & Wellness Center during normal hours of operation at 930 Orchard Rd, Davis, CA 95616 for Drop-in appointments or call (530) 752-2349. Costs for same-day appointment for mental health concerns are free.  For after-hours, call  (530) 752-2349 for Crisis Counseling Consultation. If this is an emergency, call 911 immediately. Here's more information on the Student Health and Counseling Services: https://shcs.ucdavis.edu/",
+    "qas": [
+      {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "Where can I go to find therapy",
+        "answers": 
+        [
+          {
+            "text": "Student Health and Counseling Services (SHCS) offers both medical and mental health acute care services on the first floor of the Student Health & Wellness Center during normal hours of operation at 930 Orchard Rd, Davis, CA 95616 for Drop-in appointments or call (530) 752-2349. Costs for same-day appointment for mental health concerns are free.  For after-hours, call  (530) 752-2349 for Crisis Counseling Consultation. If this is an emergency, call 911 immediately. Here's more information on the Student Health and Counseling Services: https://shcs.ucdavis.edu/",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "You could visit https://shcs.ucdavis.edu/ for the many types of treatment and counseling UC Davis provides on campus to learn more about the types of mental health treatment.",
+    "qas": [
+      {
+        "id": "00009",
+        "is_impossible": false,
+        "question": "Where can I learn about types of mental health treatment?",
+        "answers": 
+        [
+          {
+            "text": "You could visit https://shcs.ucdavis.edu/ for the many types of treatment and counseling UC Davis provides on campus to learn more about the types of mental health treatment.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. The plan is built especially for students, and students are actively involved in its design.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be waived.",
+    "qas": [
+      {
+        "id": "00010",
+        "is_impossible": false,
+        "question": "What is UC SHIP?",
+        "answers": 
+        [
+          {
+            "text": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be removed from it.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help. Students can book individual brief counseling for free and meet with a counselor who can direct them to take next steps.",
+    "qas": [
+      {
+        "id": "00011",
+        "is_impossible": false,
+        "question": "What do I do if I’m worried about my mental health?",
+        "answers": 
+        [
+          {
+            "text": "The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help. Students can book individual brief counseling for free and meet with a counselor who can direct them to take next steps.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "If your beliefs, thoughts, feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help. Some ways this might manifest for college students is developing an irregular sleep or eating schedule, having trouble concentrating or studying, experiencing a precipitous drop in energy levels or motivation, or feeling no desire to talk to or interact with family members and friends.",
+    "qas": [
+      {
+        "id": "00012",
+        "is_impossible": false,
+        "question": "How do I know if I’m unwell?",
+        "answers": 
+        [
+          {
+            "text": "If your beliefs, thoughts, feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help. Some ways this might manifest for college students is developing an irregular sleep or eating schedule, having trouble concentrating or studying, experiencing a precipitous drop in energy levels or motivation, or feeling no desire to talk to or interact with family members and friends.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "This may depend on your relationship with them. Gently encouraging someone to seek appropriate support would be helpful to start with. ",
+    "qas": [
+      {
+        "id": "00013",
+        "is_impossible": false,
+        "question": "What should I do if I’m worried about a friend or relative?",
+        "answers": 
+        [
+          {
+            "text": "This may depend on your relationship with them. Gently encouraging someone to seek appropriate support would be helpful to start with.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Some people may advise you on good evidence of what works with the best of intentions, but it's important to find out what works best for you.",
+    "qas": [
+      {
+        "id": "00014",
+        "is_impossible": false,
+        "question": "How do I deal with someone telling me what to do?",
+        "answers": 
+        [
+          {
+            "text": "Some people may advise you on good evidence of what works with the best of intentions, but it's important to find out what works best for you.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "It may be tempting to try to block out the world altogether to avoid bad news, but it's important to keep yourself informed. It's important that you know what must be done and how you should do it. This is important for the health of your neighbors and your own mental health, and taking action can help counter difficult feelings like hopelessness and despair.",
+    "qas": [
+      {
+        "id": "00015",
+        "is_impossible": false,
+        "question": "Why do I need to keep informed?",
+        "answers": 
+        [
+          {
+            "text": "It's important that you know what must be done and how you should do it. This is important for the health of your neighbors and your own mental health, and taking action can help counter difficult feelings like hopelessness and despair.",
+            "answer_start": 125
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Anyone can post anything online. It's up to the readers to think critically about information to decide if it seems helpful, truthful, or safe. Here are key points to keep in mind as you determine which information is worth considering and which information doesn't pass the test.\nIt's so easy to spread information online, and we can't assume that the source we're reading or watching is the original source. Before you can evaluate anything, you need to know where the claims come from and determine if it's a reliable source.\nReliable sources on the coronavirus and COVID-19 illness include the World Health Organization (WHO), different US governement agencies including the National Institutes of Health (NIH) and the Centers for Disease Control and Prevention(CDC), and well-known universities (including any in the UC system). Scientists and researchers at universities and other institutions and health sciences professionals are also important sources of information. \nHeadlines and titles need to be simple and short, so they can sometimes be misleading on their own. They may also be purposefully shocking or controversial to entice you to click to read more. \nWebsites that belong to governments, government-funded agencies, well-known health providers, universities, or groups of medical professionals are generally the most reliable. Be careful of sites that don't list the author or don't tell you much about themselves. Double-check the author and the credentials of any 'experts' quoted or cited to see if they are actually experts in the topic being discussed. \nCan you find other evidence from other sources to support the claims? Does the author list their sources? Are the sources legitimate, like research journals? \nUnhelpful sources want you to feel a certain way: scared, angry, distrustful, vulnerable. Phrases like \"Skyrocketing rates of infection\" are sensational and they're meant to make people feel afraid. On the other hand, factual statements like \"We have 50 new cases in BC\" give you important information without playing into your emotions. Helpful news or information sources want you feel informed and empowered. Who is paying for the site? What products or services are being advertised? What links or other sites do they promote? Are you learning something from a story or experience, or are you simply being directed to buy a product or service? Social media can be a great way to keep in touch with family and friends, especially as we practice physical distancing or self-isolation. Social media can also be an important way to learn from health experts and connect to support services and mutual aid groups in your community. Like any other source of information, it's important to use good critical thinking skills when you use social media. Studies find that searching for health information on social media generally has very mixed results. You'll see both very poor-quality sources next to good-quality sources, and it's up to you to decide which is which. In addition, social media posts tend to be short and rarely capture everything you need to consider. They are generally useful as a way to start learning or exploring different points of view rather than a place to gather all the information. Visit www.mediasmarts.ca to learn more about digital and media literacy. Visit www.healthnewsreview.org to learn more about thinking critically around health claims (this resource is no longer updated daily, but all toolkits and lessons are still available). This page is adapted from the Evaluating Mental Health and Substance Use Information info sheet.",
+    "qas": [
+      {
+        "id": "00016",
+        "is_impossible": false,
+        "question": "How can I tell if health information is good or bad?",
+        "answers": 
+        [
+          {
+            "text": "It's up to the readers to think critically about information to decide if it seems helpful, truthful, or safe. Here are key points to keep in mind as you determine which information is worth considering and which information doesn't pass the test.\nIt's so easy to spread information online, and we can't assume that the source we're reading or watching is the original source. Before you can evaluate anything, you need to know where the claims come from and determine if it's a reliable source.",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Making a plan can benefit your mental health by reducing anxiety, boosting motivation, and improving decision-making by giving you a clear roadmap to follow towards achieving your goals.",
+    "qas": [
+      {
+        "id": "00017",
+        "is_impossible": false,
+        "question": "Why do I need a plan?",
+        "answers": 
+        [
+          {
+            "text": "Making a plan can benefit your mental health by reducing anxiety, boosting motivation, and improving decision-making by giving you a clear roadmap to follow towards achieving your goals.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "To maintain social connections and combat loneliness, consider reaching out to friends and family, joining social groups or clubs, volunteering, attending community events, and using technology to stay connected with others. It's important to make an effort to stay connected and seek support when feeling lonely.",
+    "qas": [
+      {
+        "id": "00018",
+        "is_impossible": false,
+        "question": "How can I maintain social connections? What if I feel lonely?",
+        "answers": 
+        [
+          {
+            "text": "To maintain social connections and combat loneliness, consider reaching out to friends and family, joining social groups or clubs, volunteering, attending community events, and using technology to stay connected with others. It's important to make an effort to stay connected and seek support when feeling lonely.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "You can foster your physical wellness by:\nFinding time to move your body. Try to move your body in a way that increases your heart rate everyday for at least 30 minutes. You can even break up your daily 30 minutes into three ten-minute bouts!\nUsing the stairs instead of the elevator or escalator, if you’re able.\nLearning to recognize warning signs when your body begins feeling ill.\nEating foods that make you feel good.\nMaintaining a regular sleep schedule and get between 7-9 hours of sleep each night.\nPracticing safer sex and getting yourself tested for STIs, including HIV, at least annually if you are sexually active.",
+    "qas": [
+      {
+        "id": "00019",
+        "is_impossible": false,
+        "question": "How can I take care of my physical health?",
+        "answers": 
+        [
+          {
+            "text": "You can foster your physical wellness by:\nFinding time to move your body. Try to move your body in a way that increases your heart rate everyday for at least 30 minutes. You can even break up your daily 30 minutes into three ten-minute bouts!\nUsing the stairs instead of the elevator or escalator, if you’re able.\nLearning to recognize warning signs when your body begins feeling ill.\nEating foods that make you feel good.\nMaintaining a regular sleep schedule and get between 7-9 hours of sleep each night.\nPracticing safer sex and getting yourself tested for STIs, including HIV, at least annually if you are sexually active.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Distraction can help manage difficult thoughts or feelings. Examples of distraction techniques include engaging in a hobby or activity, exercising, spending time with friends or family, practicing mindfulness or meditation, and listening to music or podcasts. The goal is to shift your focus away from negative thoughts and feelings towards something positive or neutral.",
+    "qas": [
+      {
+        "id": "00020",
+        "is_impossible": false,
+        "question": "How can I use distraction to manage difficult thoughts or feelings?",
+        "answers": 
+        [
+          {
+            "text": "Examples of distraction techniques include engaging in a hobby or activity, exercising, spending time with friends or family, practicing mindfulness or meditation, and listening to music or podcasts. The goal is to shift your focus away from negative thoughts and feelings towards something positive or neutral.",
+            "answer_start": 62
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional. Information about UC Davis Group Services can be found here: https://shcs.ucdavis.edu/group-services-new",
+    "qas": [
+      {
+        "id": "00021",
+        "is_impossible": false,
+        "question": "Where can I go to find a support group?",
+        "answers": 
+        [
+          {
+            "text": "There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional. Information about UC Davis Group Services can be found here: https://shcs.ucdavis.edu/group-services-new",
+            "answer_start": 77
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "If you require emergency inpatient care, you can go to the UC Davis Medical Center Emergency Department (https://health.ucdavis.edu/emergency/patients/index.html), which is located at 2315 Stockton Blvd, Sacramento, CA 95817. You can also call 911 for emergency services. If you have health insurance through UC Davis, you can check your plan to see which hospitals and providers are in your network for inpatient care. Your insurance company can provide you with a list of hospitals and providers that are covered under your plan.It's important to note that inpatient care can be expensive, so it's important to check with your insurance company and healthcare providers to understand the costs involved and any financial assistance options that may be available to you.",
+    "qas": [
+      {
+        "id": "00022",
+        "is_impossible": false,
+        "question": "Where can I go to find inpatient care?",
+        "answers": 
+        [
+          {
+            "text": "If you require emergency inpatient care, you can go to the UC Davis Medical Center Emergency Department (https://health.ucdavis.edu/emergency/patients/index.html), which is located at 2315 Stockton Blvd, Sacramento, CA 95817. You can also call 911 for emergency services. If you have health insurance through UC Davis, you can check your plan to see which hospitals and providers are in your network for inpatient care. Your insurance company can provide you with a list of hospitals and providers that are covered under your plan.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "The Aggie Compass Basic Needs Center has a list of resources for mental wellness, including those for immediate services, campus and community resources, mental health organizations, and resources specific for substance abuse, all summarized here: https://aggiecompass.ucdavis.edu/mental-wellness. The Aggie Mental Health website also has a compilation of services and options on campus: https://mentalhealth.ucdavis.edu/i-need-help. ",
+    "qas": [
+      {
+        "id": "00023",
+        "is_impossible": false,
+        "question": "Where can I go to find other local services?",
+        "answers": 
+        [
+          {
+            "text": "The Aggie Compass Basic Needs Center has a list of resources for mental wellness, including those for immediate services, campus and community resources, mental health organizations, and resources specific for substance abuse, all summarized here: https://aggiecompass.ucdavis.edu/mental-wellness. The Aggie Mental Health website also has a compilation of services and options on campus: https://mentalhealth.ucdavis.edu/i-need-help.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Sometimes, consumers of mental health services may consider participating in a research study when they have not experienced improvement despite having tried a variety of medications and treatments. Research studies (also known as clinical trials) may involve the use of new medications or new treatment approaches whose safety and effectiveness is being tested. While we support innovation in the field, consumers should be cautioned that there are risks associated with clinical trials – make sure you’re aware of them before you enroll.",
+    "qas": [
+      {
+        "id": "00024",
+        "is_impossible": false,
+        "question": "Where can I learn more information about clinical trials?",
+        "answers": 
+        [
+          {
+            "text": "Sometimes, consumers of mental health services may consider participating in a research study when they have not experienced improvement despite having tried a variety of medications and treatments. Research studies (also known as clinical trials) may involve the use of new medications or new treatment approaches whose safety and effectiveness is being tested. While we support innovation in the field, consumers should be cautioned that there are risks associated with clinical trials – make sure you’re aware of them before you enroll.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Similar to a medical advance directive or a health care power of attorney, a psychiatric advance directive is a legal document completed in a time of wellness that provides instructions regarding treatment or services one wishes to have or not have during a mental health crisis, and may help influence his or her care. To learn more about creating a PAD in California, go to this website: https://nrc-pad.org/states/california-faq/. Keep in mind that healthcare providers may choose not to follow the PAD if you are mandated to receive treatment.",
+    "qas": [
+      {
+        "id": "00025",
+        "is_impossible": false,
+        "question": "Where can I learn more information about creating a Psychiatric Advance Directive?",
+        "answers": 
+        [
+          {
+            "text": "Similar to a medical advance directive or a health care power of attorney, a psychiatric advance directive is a legal document completed in a time of wellness that provides instructions regarding treatment or services one wishes to have or not have during a mental health crisis, and may help influence his or her care. To learn more about creating a PAD in California, go to this website: https://nrc-pad.org/states/california-faq/. Keep in mind that healthcare providers may choose not to follow the PAD if you are mandated to receive treatment.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours. Mental health also includes concepts like self care, which consists of cognitive, emotional, interpersonal, physical, practical, and spiritual components.",
+    "qas": [
+      {
+        "id": "00026",
+        "is_impossible": false,
+        "question": "What is mental health?",
+        "answers": 
+        [
+          {
+            "text": "We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours. Mental health also includes concepts like self care, which consists of cognitive, emotional, interpersonal, physical, practical, and spiritual components.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "It can be difficult to find the things that will help you, as different things help different people. It's important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful, even when some things don't work out.",
+    "qas": [
+      {
+        "id": "00027",
+        "is_impossible": false,
+        "question": "What do I do if the support doesn’t help?",
+        "answers": 
+        [
+          {
+            "text": "It can be difficult to find the things that will help you, as different things help different people. It's important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful, even when some things don't work out.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious. Self care is a major part of maintaining one's wellbeing and reducing stress, with cognitive, emotional, interpersonal, physical, practical, and spiritual components.",
+    "qas": [
+      {
+        "id": "00028",
+        "is_impossible": false,
+        "question": "Can you prevent mental health problems?",
+        "answers": 
+        [
+          {
+            "text": "We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious. Self care is a major part of maintaining one's wellbeing and reducing stress, with cognitive, emotional, interpersonal, physical, practical, and spiritual components.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help. Often, there is no magic bullet for a specific mental health issue, but approaching the problem with some combination of the aforementioned methods is usually effective.",
+    "qas": [
+      {
+        "id": "00029",
+        "is_impossible": false,
+        "question": "Are there cures for mental health problems?",
+        "answers": 
+        [
+          {
+            "text": "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help. Often, there is no magic bullet for a specific mental health issue, but approaching the problem with some combination of the aforementioned methods is usually effective.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events. For students at UC Davis specifically, academic, social, and financial issues are usually the major contributing factors to depression and other mental health issues.",
+    "qas": [
+      {
+        "id": "00030",
+        "is_impossible": false,
+        "question": "What causes mental health problems?",
+        "answers": 
+        [
+          {
+            "text": "Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events. For students at UC Davis specifically, academic, social, and financial issues are usually the major contributing factors to depression and other mental health issues.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The AATC (Academic Assistance and Tutoring Centers) are available to help with most lower-division courses. There are options for 1-1 tutoring, group sessions, and drop-ins at the library and the Teaching and Learning Complex (TLC). The Office of Educational Opportunity and Enrichment Services (OEOES) offers success coaching and other help. Sources: https://opportunity.ucdavis.edu/services/scls; https://tutoring.ucdavis.edu/",
+    "qas": [
+      {
+        "id": "00031",
+        "is_impossible": false,
+        "question": "What are some resources for students struggling academically at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "The AATC (Academic Assistance and Tutoring Centers) are available to help with most lower-division courses. There are options for 1-1 tutoring, group sessions, and drop-ins at the library and the Teaching and Learning Complex (TLC). The Office of Educational Opportunity and Enrichment Services (OEOES) offers success coaching and other help. Sources: https://opportunity.ucdavis.edu/services/scls; https://tutoring.ucdavis.edu/",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "According to the UC Davis Student Affairs website: 'At UC Davis, 1 out of 3 students reported experiencing psychological distress, according to a recent assessment by the American College Health Association. 58.1% reported experiencing loneliness, and 30.6% reporting having thoughts of suicide using the Suicide Behaviors Questionnaire- Revised (SBQR).' This proves that mental health problems are quite common at UC Davis—if you are struggling, you are definitely not alone. ",
+    "qas": [
+      {
+        "id": "00032",
+        "is_impossible": false,
+        "question": "What proportion of UC Davis students are dealing with mental health issues?",
+        "answers": 
+        [
+          {
+            "text": "1 out of 3 students reported experiencing psychological distress, according to a recent assessment by the American College Health Association. 58.1% reported experiencing loneliness, and 30.6% reporting having thoughts of suicide using the Suicide Behaviors Questionnaire- Revised (SBQR).' This proves that mental health problems are quite common at UC Davis—if you are struggling, you are definitely not alone. ",
+            "answer_start": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "It is quite common for mental health issues to be stigmatized for social, financial, and religious reasons. If a parent or other family member dismisses your mental health struggles, one effective solution is to try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
+    "qas": [
+      {
+        "id": "00033",
+        "is_impossible": false,
+        "question": "What should I do if my family invalidates my mental health struggles/issues?",
+        "answers": 
+        [
+          {
+            "text": "Try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
+            "answer_start": 212
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesickness, which both involve leaving your room or apartment for classes and any events that catch your eye. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+    "qas": [
+      {
+        "id": "00034",
+        "is_impossible": false,
+        "question": "How do I deal with homesickness while I'm at college?",
+        "answers": 
+        [
+          {
+            "text": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are also ways to reduce feelings of homesickness. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+    "qas": [
+      {
+        "id": "00035",
+        "is_impossible": false,
+        "question": "How can I reduce test-taking anxiety before midterms and finals?",
+        "answers": 
+        [
+          {
+            "text": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The most effective way to make friends on campus is to maximize your interactions with new people, which includes going to classes in person, attending club meetings and other social events, and trying new activities like fitness classes or intramural sports. The SHCS has this website with tips on how to make a friend: https://shcs.ucdavis.edu/health-topic/how-make-friend.",
+    "qas": [
+      {
+        "id": "00036",
+        "is_impossible": false,
+        "question": "What are some ways to meet new people or make friends at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "The most effective way to make friends on campus is to maximize your interactions with new people, which includes going to classes in person, attending club meetings and other social events, and trying new activities like fitness classes or intramural sports. The SHCS has this website with tips on how to make a friend: https://shcs.ucdavis.edu/health-topic/how-make-friend.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Arboretum has plenty of nature trails and areas that are ideal for walking or just admiring the scenery. Fitness can be a great way to release stress and stay physically and mentally healthy; the Activities and Recreation Center (ARC) and Recreation Pool are just a few of the options to exercise on campus. The UC Davis Nap Map is also a great resource for finding a place on campus to take a quick break: https://cie.ucdavis.edu/news/need-quick-snooze-visit-uc-davis-nap-map. Sources: https://studentaffairs.ucdavis.edu/getting-help/health",
+    "qas": [
+      {
+        "id": "00037",
+        "is_impossible": false,
+        "question": "What are the best spots on campus to de-stress or unwind?",
+        "answers": 
+        [
+          {
+            "text": "The Arboretum has plenty of nature trails and areas that are ideal for walking or just admiring the scenery. Fitness can be a great way to release stress and stay physically and mentally healthy; the Activities and Recreation Center (ARC) and Recreation Pool are just a few of the options to exercise on campus. The UC Davis Nap Map is also a great resource for finding a place on campus to take a quick break: https://cie.ucdavis.edu/news/need-quick-snooze-visit-uc-davis-nap-map. Sources: https://studentaffairs.ucdavis.edu/getting-help/health",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "General tips for reducing insomnia include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy and consistent eating schedule, and writing down a to-do list for the next day. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
+    "qas": [
+      {
+        "id": "00038",
+        "is_impossible": false,
+        "question": "What are some tools to deal with insomnia?",
+        "answers": 
+        [
+          {
+            "text": "General tips include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy and consistent eating schedule, and writing down a to-do list for the next day. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The key component to a healthy sleep schedule is consistency: ensure that classes and meetings are scheduled such that you can sleep and wake up around the same time every day, and at a time that you are comfortable with based on your sleep habits. Avoiding procrastination is also key to reducing the need to pull all-nighters to study or finish assignments. Having a consistent nightly routine also improves one's sleep schedule and reduces insomnia.",
+    "qas": [
+      {
+        "id": "00039",
+        "is_impossible": false,
+        "question": "How can I improve my sleep schedule?",
+        "answers": 
+        [
+          {
+            "text": "The key component to a healthy sleep schedule is consistency: ensure that classes and meetings are scheduled such that you can sleep and wake up around the same time every day, and at a time that you are comfortable with based on your sleep habits. Avoiding procrastination is also key to reducing the need to pull all-nighters to study or finish assignments. Having a consistent nightly routine also improves one's sleep schedule and reduces insomnia.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow for extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early (within the first 2 weeks of a quarter) so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
+    "qas": [
+      {
+        "id": "00040",
+        "is_impossible": false,
+        "question": "How can I request a mental-health based extension on an assignment or exam?",
+        "answers": 
+        [
+          {
+            "text": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow for extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Student Health and Counseling Services (SHCS) provides a range of mental health services, including individual counseling, group therapy, psychiatric medication management, and crisis support. These services are available to all registered students, and are covered by the student health insurance plan (UC SHIP) and have prices listed on their website for students under another health insurance plan: https://shcs.ucdavis.edu/services/primary-care",
+    "qas": [
+      {
+        "id": "00041",
+        "is_impossible": false,
+        "question": "What mental health services are provided by the SHCS?",
+        "answers": 
+        [
+          {
+            "text": "The Student Health and Counseling Services (SHCS) provides a range of mental health services, including individual counseling, group therapy, psychiatric medication management, and crisis support.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Individual Counseling is confidential short-term therapy available to all registered UC Davis students for free at North Hall. UC Davis Counseling Appointments are free and short-term; counselors will help students find a counselor or healthcare provider who is covered by their insurance. Other programs on campus, including counseling provided by Community Advising Network (CAN) and group counseling, are also free to UC Davis students."
+
+"",
+    "qas": [
+      {
+        "id": "00042",
+        "is_impossible": false,
+        "question": "Is counseling free for UC Davis students?",
+        "answers": 
+        [
+          {
+            "text": "Individual Counseling is confidential short-term therapy available to all registered UC Davis students for free at North Hall. UC Davis Counseling Appointments are free and short-term; counselors will help students find a counselor or healthcare provider who is covered by their insurance.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "With UC SHIP, students receive 6 1-1 counseling sessions over the course of a year, with unlimited group and other counseling sessions. After the initial appointment for counseling, students without SHIP will be referred to other healthcare providers who are covered by their insurance.",
+    "qas": [
+      {
+        "id": "00043",
+        "is_impossible": false,
+        "question": "How many sessions do students get counseling for?",
+        "answers": 
+        [
+          {
+            "text": "With UC SHIP, students receive 6 1-1 counseling sessions over the course of a year, with unlimited group and other counseling sessions.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Therapy Assistance Online (TAO) is a mental health website and app to help people improve their mental health and wellbeing, with tools and videos for mindfulness and other resources. Lyra is a website and tool used for students with UC SHIP coverage that aims to match them to healthcare providers based on their specific needs and issues.",
+    "qas": [
+      {
+        "id": "00044",
+        "is_impossible": false,
+        "question": "What are TAO and Lyra?",
+        "answers": 
+        [
+          {
+            "text": "Therapy Assistance Online (TAO) is a mental health website and app to help people improve their mental health and wellbeing, with tools and videos for mindfulness and other resources. Lyra is a website and tool used for students with UC SHIP coverage that aims to match them to healthcare providers based on their specific needs and issues.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Though less harmful than smoking cigarettes, vaping still carries potential harms. There is a small exposure to nicotine and possible carcinogens in the vapour.  There is a small exposure to nicotine and possible carcinogens in the vapour. E-cigarettes are not controlled and the nicotine content of vaping liquids varies significantly among brands. Other chemicals, flavourings, and heavy metals present in vaping liquids, have not as yet been well studied. Long-term health risks from vaping are thus undetermined. We offer, 'not too much, not too often, and in a safe context' as one way to think about using any substance. Here's a helpful resource provided by UC Davis: https://healthy.ucdavis.edu/smoke-tobacco-free/vaping-campaign",
+    "qas": [
+      {
+        "id": "00045",
+        "is_impossible": false,
+        "question": "What is the evidence on vaping?",
+        "answers": 
+        [
+          {
+            "text": "Though less harmful than smoking cigarettes, vaping still carries potential harms. There is a small exposure to nicotine and possible carcinogens in the vapour.  There is a small exposure to nicotine and possible carcinogens in the vapour.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "It can be difficult to determine if you are drinking too much, as there is no specific guideline that applies to everyone. However, there are some signs that can indicate you may be drinking too much. Some signs that you may be drinking too much include: Drinking more than the recommended limits for alcohol consumption: According to the National Institute on Alcohol Abuse and Alcoholism, the recommended limits for alcohol consumption are no more than 4 drinks per day for men and no more than 3 drinks per day for women.Drinking to cope with stress or emotions: If you find yourself turning to alcohol to deal with stress or negative emotions, it may be a sign that you are drinking too much. Neglecting responsibilities: If you find yourself neglecting your responsibilities, such as skipping class or missing work, in order to drink, it may be a sign that you are drinking too much. Blacking out or experiencing memory loss: If you have trouble remembering what happened while you were drinking, it may be a sign that you are drinking too much and putting yourself at risk for harm. Experiencing negative consequences: If you are experiencing negative consequences as a result of your drinking, such as getting into fights or experiencing legal problems, it may be a sign that you are drinking too much. If you are concerned about your drinking habits, you may want to consider seeking help. UC Davis has a variety of resources available to students who are struggling with alcohol or other substance use. The Student Health and Counseling Services offers individual and group counseling, as well as substance use education and prevention programs. Additionally, the UC Davis Alcohol and Drug Education Program provides resources and support for students who want to reduce their alcohol or drug use. Here's a helpful link: https://shcs.ucdavis.edu/health-and-wellness/alcohol-tobacco-and-other-drugs/recovery-resources",
+    "qas": [
+      {
+        "id": "00046",
+        "is_impossible": false,
+        "question": "How do I know if I'm drinking too much?",
+        "answers": 
+        [
+          {
+            "text": "Some signs that you may be drinking too much include: Drinking more than the recommended limits for alcohol consumption: According to the National Institute on Alcohol Abuse and Alcoholism, the recommended limits for alcohol consumption are no more than 4 drinks per day for men and no more than 3 drinks per day for women.Drinking to cope with stress or emotions: If you find yourself turning to alcohol to deal with stress or negative emotions, it may be a sign that you are drinking too much. Neglecting responsibilities: If you find yourself neglecting your responsibilities, such as skipping class or missing work, in order to drink, it may be a sign that you are drinking too much. Blacking out or experiencing memory loss: If you have trouble remembering what happened while you were drinking, it may be a sign that you are drinking too much and putting yourself at risk for harm. Experiencing negative consequences: If you are experiencing negative consequences as a result of your drinking, such as getting into fights or experiencing legal problems, it may be a sign that you are drinking too much.",
+            "answer_start": 201
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Rapid cycling means that someone diagnosed with bipolar disorder (or depression) experiences four or more episodes of depression and/or mania in one year. For more resources and information on bipolar disorders, visit https://hr.ucdavis.edu/departments/asap/resources-ucdh/bipolar. If you or your friend are showing signs of depression and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost. \nRapid cycling can happen any time someone experiences bipolar disorder—about 10-20% of people diagnosed with bipolar disorder experience rapid cycling at some point. In many cases, rapid cycling eventually goes away on its own and people return to a pattern of longer and less frequent episodes.",
+    "qas": [
+      {
+        "id": "00047",
+        "is_impossible": false,
+        "question": "What does rapid cycling mean?",
+        "answers": 
+        [
+          {
+            "text": "Rapid cycling means that someone diagnosed with bipolar disorder (or depression) experiences four or more episodes of depression and/or mania in one year. For more resources and information on bipolar disorders, visit https://hr.ucdavis.edu/departments/asap/resources-ucdh/bipolar. If you or your friend are showing signs of depression and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost. \nRapid cycling can happen any time someone experiences bipolar disorder—about 10-20% of people diagnosed with bipolar disorder experience rapid cycling at some point. In many cases, rapid cycling eventually goes away on its own and people return to a pattern of longer and less frequent episodes.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Borderline personality disorder or BPD is a treatable illness. It’s made up of five groups of symptoms around behaviours, emotions, relationships, sense of identity, and awareness. You can read our info sheet on borderline personality disorder. We also have an entire issue of Visions Journal on BPD, where you’ll find information on treatments and support and personal stories from people who are managing BPD and living well. UC Davis medical center has CAARE Diagnostic and Treatment Center where you could recieve help for borderline personality disorder and other mental conditions with the help of experts in the field of psychiatry.",
+    "qas": [
+      {
+        "id": "00048",
+        "is_impossible": false,
+        "question": "Where can I find information and help for borderline personality disorder?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis medical center has CAARE Diagnostic and Treatment Center where you could recieve help for borderline personality disorder and other mental conditions with the help of experts in the field of psychiatry.",
+            "answer_start": 428
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Schizoid personality disorder or SPD affects social interactions and relationships. People with SPD may have a hard time relating to others and showing emotions. They may avoid close relationships and prefer to spend their time alone, seeming distant even to close family members. Many people don’t respond to strong emotions like anger, even when others try to provoke them. On the outside, people with SPD may seem cold or aloof, showing little emotion. While they have a similar name, schizoid personality disorder isn’t the same as schizophrenia. Schizoid personality disorder is believed to be relatively uncommon. While some people with SPD may see it as part of who they are, other people may feel a lot of distress, especially around social interactions. Some medications may help people manage symptoms and psychotherapy may help people build new skills and improve relationships. To find help for schizoid personality disorder, talk to your family doctor. If you or your friend are struggling with your mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+    "qas": [
+      {
+        "id": "00049",
+        "is_impossible": false,
+        "question": "What is schizoid personality disorder?",
+        "answers": 
+        [
+          {
+            "text": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Schizoid personality disorder or SPD affects social interactions and relationships. People with SPD may have a hard time relating to others and showing emotions. They may avoid close relationships and prefer to spend their time alone, seeming distant even to close family members. Many people don’t respond to strong emotions like anger, even when others try to provoke them. On the outside, people with SPD may seem cold or aloof, showing little emotion. While they have a similar name, schizoid personality disorder isn’t the same as schizophrenia. Schizoid personality disorder is believed to be relatively uncommon. While some people with SPD may see it as part of who they are, other people may feel a lot of distress, especially around social interactions. Some medications may help people manage symptoms and psychotherapy may help people build new skills and improve relationships. To find help for schizoid personality disorder, talk to your family doctor. If you or your friend are struggling with your mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Antisocial personality disorder or ASPD affects the way people think about the rights of others. Someone with ASPD may disregard laws or expectations, lack remorse when they hurt others or break the law, make reckless decisions, and believe they are superior to others. People may see someone with ASPD as overly dramatic, impulsive, manipulative, and deceitful. Some people may appear charming, at least on the surface. Like all mental illnesses, antisocial personality disorder is a spectrum. Some people may only occasionally act out, while others may break the law often and spend a lot of time in the criminal justice system. ASPD is only diagnosed in adults, but people with ASPD start to have problems with conduct or antisocial behaviours at a young age. They may be diagnosed with conduct disorder during childhood. Treatment for antisocial personality disorder, usually psychotherapy, can help reduce the harms of ASPD and help people build empathy towards others. ASPD is treatable and it may improve as a person approaches middle age. All of us have hurt someone else or acted without thinking of others' needed. It’s important to remember that antisocial personality disorder is an enduring pattern around lack of empathy and lack of remorse. Only a doctor or mental health professional can diagnose illnesses like ASPD. To find help for antisocial personality disorder, talk to your family doctor. If you or your friend are struggling with your mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+    "qas": [
+      {
+        "id": "00050",
+        "is_impossible": false,
+        "question": "What is antisocial personality disorder?",
+        "answers": 
+        [
+          {
+            "text": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Antisocial personality disorder or ASPD affects the way people think about the rights of others. Someone with ASPD may disregard laws or expectations, lack remorse when they hurt others or break the law, make reckless decisions, and believe they are superior to others. People may see someone with ASPD as overly dramatic, impulsive, manipulative, and deceitful. Some people may appear charming, at least on the surface. Like all mental illnesses, antisocial personality disorder is a spectrum. Some people may only occasionally act out, while others may break the law often and spend a lot of time in the criminal justice system. ASPD is only diagnosed in adults, but people with ASPD start to have problems with conduct or antisocial behaviours at a young age. They may be diagnosed with conduct disorder during childhood. Treatment for antisocial personality disorder, usually psychotherapy, can help reduce the harms of ASPD and help people build empathy towards others. ASPD is treatable and it may improve as a person approaches middle age. All of us have hurt someone else or acted without thinking of others' needed. It’s important to remember that antisocial personality disorder is an enduring pattern around lack of empathy and lack of remorse. Only a doctor or mental health professional can diagnose illnesses like ASPD. To find help for antisocial personality disorder, talk to your family doctor. If you or your friend are struggling with your mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Binge-eating disorder or BED is a type of eating disorder. It involves episodes of eating a lot of food in a short amount of time, past the point of feeling full, and feelings of being out of control or unable to stop eating. People who experience binge-eating disorder may binge even when they don’t feel hungry. They may feel temporarily comforted by food, and then feel depressed, upset, guilty, or ashamed of their eating. As a result, many people try to keep binge-eating symptoms a secret. You can’t tell if someone experiences binge-eating disorder just from the way they look or the way they eat around others. While a lot of people have the experience of eating too much a few times and feeling uncomfortable after, people who experience binge-eating disorder experience many binges for a long period of time. Binge-eating disorder is treatable. Talk to your doctor or a mental health professional if you think you might have binge-eating disorder. For more information on binge-eating and other eating disorders, visit https://shcs.ucdavis.edu/health-topic/eating-disorders",
+    "qas": [
+      {
+        "id": "00051",
+        "is_impossible": false,
+        "question": "What is binge-eating disorder?",
+        "answers": 
+        [
+          {
+            "text": "Binge-eating disorder or BED is a type of eating disorder. It involves episodes of eating a lot of food in a short amount of time, past the point of feeling full, and feelings of being out of control or unable to stop eating. People who experience binge-eating disorder may binge even when they don’t feel hungry. They may feel temporarily comforted by food, and then feel depressed, upset, guilty, or ashamed of their eating. As a result, many people try to keep binge-eating symptoms a secret. You can’t tell if someone experiences binge-eating disorder just from the way they look or the way they eat around others. While a lot of people have the experience of eating too much a few times and feeling uncomfortable after, people who experience binge-eating disorder experience many binges for a long period of time. Binge-eating disorder is treatable. Talk to your doctor or a mental health professional if you think you might have binge-eating disorder. For more information on binge-eating and other eating disorders, visit https://shcs.ucdavis.edu/health-topic/eating-disorders",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Obsessive-compulsive personality disorder or OCPD is about control. People with OCPD have very inflexible thinking and expect everything to be ordered, perfect, and done their \"correct\" way. This happens at the expense of other important things in life, including relationships with others. Work can take priority over every other part of life, too, and people with OCPD may seem excessively dedicated, but may be unable to complete tasks due to perfectionism. They may struggle to delegate and may distrust other people’s contributions. People with OCPD may not tolerate uncertainty and may have a very rigid understanding of the world—something is either right or wrong. They may also have a hard time spending money on themselves or others, and they may experience hoarding, the inability to throw away items from their homes. The conflict between the desire for neatness or order and the inability to throw things out may cause a lot of anxiety. While obsessive-compulsive personality disorder and obsessive-compulsive disorder (OCD) have a similar name, they are not the same illness. People with obsessive-compulsive disorder usually understand that their obsessions and compulsions are illogical and usually experience a lot of distress, even though they may not be able to stop obsessions or compulsions. Compulsions are an attempt to reduce anxiety, not to find pleasure. People with obsessive-compulsive personality disorder may view their thoughts as part of who they are, see their thoughts as logical, and may find pleasure or benefit in completing compulsive tasks. They may experience a lot of distress when they can’t achieve control or the perfectionism they want. Obsessive-compulsive personality disorder is one of the most common personality disorders. Treatment may include some combination of psychotherapy, medication, and self-help strategies. To find help for OCPD, visit https://health.ucdavis.edu/mindinstitute/resources/mental-behavioral-health.html for more resources and organizations centered around OCPD.",
+    "qas": [
+      {
+        "id": "00052",
+        "is_impossible": false,
+        "question": "What is obsessive-compulsive personality disorder?",
+        "answers": 
+        [
+          {
+            "text": "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Obsessive-compulsive personality disorder or OCPD is about control. People with OCPD have very inflexible thinking and expect everything to be ordered, perfect, and done their \"correct\" way. This happens at the expense of other important things in life, including relationships with others. Work can take priority over every other part of life, too, and people with OCPD may seem excessively dedicated, but may be unable to complete tasks due to perfectionism. They may struggle to delegate and may distrust other people’s contributions. People with OCPD may not tolerate uncertainty and may have a very rigid understanding of the world—something is either right or wrong. They may also have a hard time spending money on themselves or others, and they may experience hoarding, the inability to throw away items from their homes. The conflict between the desire for neatness or order and the inability to throw things out may cause a lot of anxiety. While obsessive-compulsive personality disorder and obsessive-compulsive disorder (OCD) have a similar name, they are not the same illness. People with obsessive-compulsive disorder usually understand that their obsessions and compulsions are illogical and usually experience a lot of distress, even though they may not be able to stop obsessions or compulsions. Compulsions are an attempt to reduce anxiety, not to find pleasure. People with obsessive-compulsive personality disorder may view their thoughts as part of who they are, see their thoughts as logical, and may find pleasure or benefit in completing compulsive tasks. They may experience a lot of distress when they can’t achieve control or the perfectionism they want. Obsessive-compulsive personality disorder is one of the most common personality disorders. Treatment may include some combination of psychotherapy, medication, and self-help strategies. To find help for OCPD, visit https://health.ucdavis.edu/mindinstitute/resources/mental-behavioral-health.html for more resources and organizations centered around OCPD.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sometimes, people confuse dissociative identity disorder, formerly known as multiple personality disorder, and schizophrenia. Schizophrenia does mean “split mind,” but the name was meant to describe the ‘split’ from reality that you experience during an episode of psychosis, as well as changes in thoughts, emotions, and other functions. Dissociative identity disorder, on the other hand, does cause a split or fragmented understanding of a person’s sense of themselves. Dissociative identity disorder is really more about fragmented identities than many different personalities that develop on their own. Most people see different parts of their being as part of the whole person. For people who experience DID, identity fragments may have very different characteristics, including their own history, identity, and mannerisms. A key part of DID is dissociation—feeling detached to the world around you. People who experience DID may have many unexplainable gaps in their memory, forget information they’re already learned, or have difficulties recalling things they’ve said or done. Unlike portrayals of DID on TV or in movies, DID may not be obvious to others, and it can take a lot of time to come to the diagnosis. Schizophrenia is a serious mental illness that causes hallucinations (sensations that aren’t real) and delusions (beliefs that can’t possibly be true, in addition to other symptoms like jumbled thoughts, jumbled speech, and difficulties expressing emotions. People who experience schizophrenia may hear or feel things that aren’t real or believe things that can’t be real, but these aren’t separate identities.  If you or your friend are struggling with mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+    "qas": [
+      {
+        "id": "00053",
+        "is_impossible": false,
+        "question": "What’s the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?",
+        "answers": 
+        [
+          {
+            "text": "Sometimes, people confuse dissociative identity disorder, formerly known as multiple personality disorder, and schizophrenia. Schizophrenia does mean “split mind,” but the name was meant to describe the ‘split’ from reality that you experience during an episode of psychosis, as well as changes in thoughts, emotions, and other functions. Dissociative identity disorder, on the other hand, does cause a split or fragmented understanding of a person’s sense of themselves. Dissociative identity disorder is really more about fragmented identities than many different personalities that develop on their own. Most people see different parts of their being as part of the whole person. For people who experience DID, identity fragments may have very different characteristics, including their own history, identity, and mannerisms. A key part of DID is dissociation—feeling detached to the world around you. People who experience DID may have many unexplainable gaps in their memory, forget information they’re already learned, or have difficulties recalling things they’ve said or done. Unlike portrayals of DID on TV or in movies, DID may not be obvious to others, and it can take a lot of time to come to the diagnosis. Schizophrenia is a serious mental illness that causes hallucinations (sensations that aren’t real) and delusions (beliefs that can’t possibly be true, in addition to other symptoms like jumbled thoughts, jumbled speech, and difficulties expressing emotions. People who experience schizophrenia may hear or feel things that aren’t real or believe things that can’t be real, but these aren’t separate identities.  If you or your friend are struggling with mental health and you are concerned call 530-752-2349, a 24 hour hotline for Davis students. For more information, you could also contact SHCS Counseling Services or talk with an advice nurse at no additional cost.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Psychosis is a syndrome or group of symptoms. Someone experiencing an episode of psychosis is having a ‘break’ with reality. Major symptoms of psychosis are hallucinations and delusions. Hallucinations are sensations that are not real, such as hearing voices or sounds that aren’t real. Hearing voices is a common hallucination, but hallucinations can be experiences with any sense—hearing, sight, smell, taste, or touch. Delusions are strong beliefs that can’t possibly be true. Common delusions include the belief that someone is following or monitoring you, or the belief that you have extraordinary powers or abilities. Other symptoms of psychosis include difficulties concentrating, completing tasks, or making decisions. Thoughts may feel ‘jumbled’ or confused. Some people have a hard time following conversations or speaking clearly. Psychosis can even affect the way people move or express their emotions. Schizophrenia is a mental illness that causes psychosis, but schizophrenia also has other symptoms. And it isn’t the only cause of psychosis. In some cases, other mental illnesses cause psychosis, including depression, bipolar disorder, dementia and borderline personality disorder. Psychosis may come up during times of extreme stress, a major lack of sleep, or trauma. People who are using or withdrawing from certain drugs or medications may experience psychosis. Psychosis may also be caused by a brain injury, neurological problem, or other health problem. So while psychosis can be a part of schizophrenia, it can be caused by many other things too. Psychosis and schizophrenia are treatable. It’s important to seek help as soon as possible. Here's a resource provided by UC Davis: https://health.ucdavis.edu/psychiatry/specialties/edapt/edapt_clinic.html",
+    "qas": [
+      {
+        "id": "00054",
+        "is_impossible": false,
+        "question": "What's the difference between psychosis and schizophrenia?",
+        "answers": 
+        [
+          {
+            "text": "Psychosis is a syndrome or group of symptoms. Someone experiencing an episode of psychosis is having a ‘break’ with reality. Major symptoms of psychosis are hallucinations and delusions. Hallucinations are sensations that are not real, such as hearing voices or sounds that aren’t real. Hearing voices is a common hallucination, but hallucinations can be experiences with any sense—hearing, sight, smell, taste, or touch. Delusions are strong beliefs that can’t possibly be true. Common delusions include the belief that someone is following or monitoring you, or the belief that you have extraordinary powers or abilities. Other symptoms of psychosis include difficulties concentrating, completing tasks, or making decisions. Thoughts may feel ‘jumbled’ or confused. Some people have a hard time following conversations or speaking clearly. Psychosis can even affect the way people move or express their emotions. Schizophrenia is a mental illness that causes psychosis, but schizophrenia also has other symptoms. And it isn’t the only cause of psychosis. In some cases, other mental illnesses cause psychosis, including depression, bipolar disorder, dementia and borderline personality disorder. Psychosis may come up during times of extreme stress, a major lack of sleep, or trauma. People who are using or withdrawing from certain drugs or medications may experience psychosis. Psychosis may also be caused by a brain injury, neurological problem, or other health problem. So while psychosis can be a part of schizophrenia, it can be caused by many other things too. Psychosis and schizophrenia are treatable. It’s important to seek help as soon as possible. Here's a resource provided by UC Davis: https://health.ucdavis.edu/psychiatry/specialties/edapt/edapt_clinic.html",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Positive and negative symptoms are medical terms for two groups of symptoms in schizophrenia. Positive symptoms add. Positive symptoms include hallucinations (sensations that aren’t real), delusions (beliefs that can’t be real), and repetitive movements that are hard to control. Negative symptoms take away. Negative symptoms include the inability to show emotions, apathy, difficulties talking, and withdrawing from social situations and relationships. There is also a third group of symptoms, usually called cognitive symptoms. This includes anything related to thinking, such as disorganized thoughts, memory problems, and difficulties with focus and attention. If you think you might have schizophrenia, visit this UC Davis resource: https://shcs.ucdavis.edu/health-topic/adhd-attention-deficit-hyperactive-disorders",
+    "qas": [
+      {
+        "id": "00055",
+        "is_impossible": false,
+        "question": "What are positive and negative symptoms?",
+        "answers": 
+        [
+          {
+            "text": "Positive and negative symptoms are medical terms for two groups of symptoms in schizophrenia. Positive symptoms add. Positive symptoms include hallucinations (sensations that aren’t real), delusions (beliefs that can’t be real), and repetitive movements that are hard to control. Negative symptoms take away. Negative symptoms include the inability to show emotions, apathy, difficulties talking, and withdrawing from social situations and relationships. There is also a third group of symptoms, usually called cognitive symptoms. This includes anything related to thinking, such as disorganized thoughts, memory problems, and difficulties with focus and attention. If you think you might have schizophrenia, visit this UC Davis resource: https://shcs.ucdavis.edu/health-topic/adhd-attention-deficit-hyperactive-disorders",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "While we think of attention-deficit/hyperactivity disorder as an illness that affects children, it can last into adulthood—and some people aren’t diagnosed until much later in life. \nADHD is diagnosed like any other mental illness, so your family doctor is a good place to start. Your family doctor may be able to assess your mental health and start treatment, if needed, or they may refer you to more specialized mental health services.\nUC Davis does not perform evaluations or prescribe medication for ADHD, so it is recommended to connect with local providers. \nHere's more about UC Davis and ADHD: https://shcs.ucdavis.edu/health-topic/adhd-attention-deficit-hyperactive-disorders",
+    "qas": [
+      {
+        "id": "00056",
+        "is_impossible": false,
+        "question": "I’m an adult and I think I might have ADHD. What can I do next?",
+        "answers": 
+        [
+          {
+            "text": "While we think of attention-deficit/hyperactivity disorder as an illness that affects children, it can last into adulthood—and some people aren’t diagnosed until much later in life. \nADHD is diagnosed like any other mental illness, so your family doctor is a good place to start. Your family doctor may be able to assess your mental health and start treatment, if needed, or they may refer you to more specialized mental health services.\nUC Davis does not perform evaluations or prescribe medication for ADHD, so it is recommended to connect with local providers. \nHere's more about UC Davis and ADHD: https://shcs.ucdavis.edu/health-topic/adhd-attention-deficit-hyperactive-disorders",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+    "qas": [
+      {
+        "id": "00057",
+        "is_impossible": false,
+        "question": "Are there any support groups or workshops for students dealing with specific mental health concerns?",
+        "answers": 
+        [
+          {
+            "text": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "There are lots of resources available for students who are experiencing financial difficulties related to mental health care. The UC Davis Student Health and Counseling Services (SHCS) offers mental health services at low or no cost to registered UC Davis students who have paid the UC Davis registration fees. They also have a financial assistance program for students who need help covering the cost of mental health services. Here’s more on SHCS:  https://shcs.ucdavis.edu/.The UC Davis Financial Aid and Scholarships Office offers emergency loan programs for students who have unexpected financial difficulties. Here’s more information: https://financialaid.ucdavis.edu/loans/short-term.The UC Davis Health Patient Financial Services department can help students understand their medical bills and insurance coverage, and can offer payment plans or financial assistance programs for those who qualify. Here’s more information: https://health.ucdavis.edu/medicalcenter/patients/financial-assistance.html",
+    "qas": [
+      {
+        "id": "00058",
+        "is_impossible": false,
+        "question": "Are there any resources available for students who are experiencing financial difficulties related to mental health care?",
+        "answers": 
+        [
+          {
+            "text": "There are lots of resources available for students who are experiencing financial difficulties related to mental health care. The UC Davis Student Health and Counseling Services (SHCS) offers mental health services at low or no cost to registered UC Davis students who have paid the UC Davis registration fees. They also have a financial assistance program for students who need help covering the cost of mental health services. Here’s more on SHCS:  https://shcs.ucdavis.edu/.The UC Davis Financial Aid and Scholarships Office offers emergency loan programs for students who have unexpected financial difficulties. Here’s more information: https://financialaid.ucdavis.edu/loans/short-term.The UC Davis Health Patient Financial Services department can help students understand their medical bills and insurance coverage, and can offer payment plans or financial assistance programs for those who qualify. Here’s more information: https://health.ucdavis.edu/medicalcenter/patients/financial-assistance.html",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Many mental health counceling services are free to UC Davis students. You only need to call or make an appointment at 530-752-2300 or 530-752-2349 for after-hour counceling. Learn more about it here: https://shcs.ucdavis.edu/  . For paying for physical health care, learn more about it here: https://docs.google.com/document/d/1y8c68m12DyACptbMXLj1FBDE77QcsKgL4ifxlkC90a4/edit#heading=h.r616d7wnj29t ",
+    "qas": [
+      {
+        "id": "00059",
+        "is_impossible": false,
+        "question": "How can I pay for mental health care?",
+        "answers": 
+        [
+          {
+            "text": "Many mental health counceling services are free to UC Davis students. You only need to call or make an appointment at 530-752-2300 or 530-752-2349 for after-hour counceling. Learn more about it here: https://shcs.ucdavis.edu/",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "At UC Davis, you could find self-help materials for depression can be found at the Office of Ombuds for many programs to help cope with depression and have someone professional to talk to about anything. Learn more about the program here: https://ombuds.ucdavis.edu/ ",
+    "qas": [
+      {
+        "id": "00060",
+        "is_impossible": false,
+        "question": "Where can I find self-help materials for depression?",
+        "answers": 
+        [
+          {
+            "text": "At UC Davis, you could find self-help materials for depression can be found at the Office of Ombuds for many programs to help cope with depression and have someone professional to talk to about anything. Learn more about the program here: https://ombuds.ucdavis.edu/",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "At UC Davis, you could find self-help materials for anxiety can be found at the Office of Ombuds for many programs to help cope with anxiety and have someone professional to talk to about anything. Learn more about the program here: https://ombuds.ucdavis.edu/ ",
+    "qas": [
+      {
+        "id": "00061",
+        "is_impossible": false,
+        "question": "Where can I find self-help materials for anxiety?",
+        "answers": 
+        [
+          {
+            "text": "At UC Davis, you could find self-help materials for anxiety can be found at the Office of Ombuds for many programs to help cope with anxiety and have someone professional to talk to about anything. Learn more about the program here: https://ombuds.ucdavis.edu/ ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The best place for you find help in terms of your physical health is going to the Student Health and Counceling Services (SHCS) by appointment or by drop-in. There are SHCS Advice nurses that are available by appointment to help you discuss some mental or physical health issues. Learn more about it here: https://shcs.ucdavis.edu/services/acute-crisis-care. Additional help can be found on https://docs.google.com/document/d/1y8c68m12DyACptbMXLj1FBDE77QcsKgL4ifxlkC90a4/edit#heading=h.r616d7wnj29t ",
+    "qas": [
+      {
+        "id": "00062",
+        "is_impossible": false,
+        "question": "I’m having a hard time coping with a physical health problem. Where can I find help?",
+        "answers": 
+        [
+          {
+            "text": "The best place for you find help in terms of your physical health is going to the Student Health and Counceling Services (SHCS) by appointment or by drop-in. There are SHCS Advice nurses that are available by appointment to help you discuss some mental or physical health issues. Learn more about it here: https://shcs.ucdavis.edu/services/acute-crisis-care.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Lack of motivation can have many causes and often contributes to other issues such as low class attendance and poor study behaviors like procrastination. The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaches where they can help restore your motivation and address procrastination  https://opportunity.ucdavis.edu/services/scls/appointments.",
+    "qas": [
+      {
+        "id": "00063",
+        "is_impossible": false,
+        "question": "I'm lacking motivation in going to class or doing my homework, I want to fix this.",
+        "answers": 
+        [
+          {
+            "text": "Lack of motivation can have many causes and often contributes to other issues such as low class attendance and poor study behaviors like procrastination. The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaches where they can help restore your motivation and address procrastination  https://opportunity.ucdavis.edu/services/scls/appointments",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Students give many different reasons why they may drink alcohol, including liking the sensations obtained, peer pressure and to be apart of a group. Sometimes alcohol is used to avoid difficult situations that may arise at school, work, family and friends. Others use alcohol to avoid uncomfortable feelings, like anxiety or sadness. A serious problem can develop quickly, especially among college students. More info here: https://shcs.ucdavis.edu/health-topic/alcohol-abuse",
+    "qas": [
+      {
+        "id": "00064",
+        "is_impossible": false,
+        "question": "What are some signs I have a drinking problem?",
+        "answers": 
+        [
+          {
+            "text": "Students give many different reasons why they may drink alcohol, including liking the sensations obtained, peer pressure and to be apart of a group. Sometimes alcohol is used to avoid difficult situations that may arise at school, work, family and friends. Others use alcohol to avoid uncomfortable feelings, like anxiety or sadness. A serious problem can develop quickly, especially among college students. More info here: https://shcs.ucdavis.edu/health-topic/alcohol-abuse",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There some ways on what can be done. One step is finding and utilizing ways on how to get calm. Another is indentify your 'Anger Triggers'. You could try checking your thoughts before acting on your anger. Most importantly, you need to communicate your issues. The Student Health Counceling Services provides acute care, drop-in services, brief individual therapy, group therapy, and referrals for ongoing therapy. https://shcs.ucdavis.edu/health-topic/anger-management",
+    "qas": [
+      {
+        "id": "00065",
+        "is_impossible": false,
+        "question": "I need help with my anger management. How can I get help with this?",
+        "answers": 
+        [
+          {
+            "text": "One step is finding and utilizing ways on how to get calm. Another is indentify your 'Anger Triggers'. You could try checking your thoughts before acting on your anger. Most importantly, you need to communicate your issues. The Student Health Counceling Services provides acute care, drop-in services, brief individual therapy, group therapy, and referrals for ongoing therapy. https://shcs.ucdavis.edu/health-topic/anger-management",
+            "answer_start": 36
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There are a few spots on campus to do so. One is on top of the hutchison parking lot a night  as there will be very few people to care. If you are a music major, you could go into one of the soundproof rooms in the music building. Just be safe in doing these activities. There are also resources that provides professionals that will you hear you in on your problems. More info here: https://shcs.ucdavis.edu/schedule-or-cancel-appointment ",
+    "qas": [
+      {
+        "id": "00066",
+        "is_impossible": false,
+        "question": "Where can I just scream out my emotions where no one can hear me?",
+        "answers": 
+        [
+          {
+            "text": "There are a few spots on campus to do so. One is on top of the hutchison parking lot a night  as there will be very few people to care. If you are a music major, you could go into one of the soundproof rooms in the music building. Just be safe in doing these activities. There are also resources that provides professionals that will you hear you in on your problems. More info here: https://shcs.ucdavis.edu/schedule-or-cancel-appointment ",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "To help you manage your body dysmorphia and eating disorders, definitely look for a therapist. There is always one available here at UC Davis. A support group can help you go through the process of becoming the person you are happy with. Additionally, you could look for a dietitian on campus to help you manage your eating habits and get you into a routine. For more information about scheduling an appointment with a dietitian go to this website: https://shcs.ucdavis.edu/services/other-services/dietician",
+    "qas": [
+      {
+        "id": "00067",
+        "is_impossible": false,
+        "question": "Where can I get help with my body dysmorphia and eating disorders at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "To help you manage your body dysmorphia and eating disorders, definitely look for a therapist. There is always one available here at UC Davis. A support group can help you go through the process of becoming the person you are happy with. Additionally, you could look for a dietitian on campus to help you manage your eating habits and get you into a routine. For more information about scheduling an appointment with a dietitian go to this website: https://shcs.ucdavis.edu/services/other-services/dietician",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Incoming freshmen often experience difficulties transitioning from high school to college. It takes time to learn to cope with the expectations of a new academic environment and adjust to university-level academic rigor.  The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaching and Learning Strategies to support your transition. They offer workshops and one-on-one appointments with a Success Coach. Another resource would be academic advisors. Your advisors are here to support you during your transition and throughout your academic career at UC Davis. You can make an appointment with your advisors through the appointment system: appointments.ucdavis.edu",
+    "qas": [
+      {
+        "id": "00068",
+        "is_impossible": false,
+        "question": "I'm a first year/freshman and I am having trouble transistioning from high school to college, any tips?",
+        "answers": 
+        [
+          {
+            "text": "Incoming freshmen often experience difficulties transitioning from high school to college. It takes time to learn to cope with the expectations of a new academic environment and adjust to university-level academic rigor.  The Office of Educational Opportunity Enrichment Services (OEOES) provides Success Coaching and Learning Strategies to support your transition. They offer workshops and one-on-one appointments with a Success Coach. Another resource would be academic advisors. Your advisors are here to support you during your transition and throughout your academic career at UC Davis. You can make an appointment with your advisors through the appointment system: appointments.ucdavis.edu",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "There are many ways to express these emotions. Bottling your emotions can be unhealthy as those emotions need to be released. Mental health can be described as the ability to cope with emotions, whether it be sad or happy. It's important to let it out. You could go inside a car or isolated area and scream, or isten to music to cry to. There's no shame in expressing that! You need to express your own feelings first and validate those feelings. Remember, you are not alone.",
+    "qas": [
+      {
+        "id": "00069",
+        "is_impossible": false,
+        "question": "I just experienced a loss. I'm having trouble expressing these emotions. What are some suggestions on letting out these emotions?",
+        "answers": 
+        [
+          {
+            "text": "There are many ways to express these emotions. Bottling your emotions can be unhealthy as those emotions need to be released. Mental health can be described as the ability to cope with emotions, whether it be sad or happy. It's important to let it out. You could go inside a car or isolated area and scream, or isten to music to cry to. There's no shame in expressing that! You need to express your own feelings first and validate those feelings. Remember, you are not alone.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis Student Health and Counseling Services (SHCS) offers counseling and support services for students dealing with stress and mental health concerns. They also have resources for stress management, mindfulness, and other wellness activities.",
+    "qas": [
+      {
+        "id": "000070",
+        "is_impossible": false,
+        "question": "I'm feeling overwhelmed with schoolwork and stress. Where can I find resources for stress management and mental health support on campus?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis Student Health and Counseling Services (SHCS) offers counseling and support services for students dealing with stress and mental health concerns. They also have resources for stress management, mindfulness, and other wellness activities.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers mental health counseling services, as well as workshops and support groups for students dealing with anxiety and depression. They also have an online self-help portal called TAO Connect that provides tools and resources for managing mental health.",
+    "qas": [
+      {
+        "id": "000071",
+        "is_impossible": false,
+        "question": "I'm experiencing symptoms of anxiety or depression. What are some resources I can use to find help on campus?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers mental health counseling services, as well as workshops and support groups for students dealing with anxiety and depression. They also have an online self-help portal called TAO Connect that provides tools and resources for managing mental health.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers sleep consultations and sleep hygiene education for students experiencing sleep difficulties. They also offer resources for relaxation and mindfulness practices.",
+    "qas": [
+      {
+        "id": "000072",
+        "is_impossible": false,
+        "question": "I'm having trouble sleeping and it's affecting my daily life. What resources are available for sleep support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers sleep consultations and sleep hygiene education for students experiencing sleep difficulties. They also offer resources for relaxation and mindfulness practices.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers individual and group counseling services for students dealing with disordered eating habits. They also have resources for nutritional counseling and support groups for eating disorder recovery.",
+    "qas": [
+      {
+        "id": "000072",
+        "is_impossible": false,
+        "question": "I'm struggling with disordered eating habits. Where can I find resources for eating disorder treatment and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers individual and group counseling services for students dealing with disordered eating habits. They also have resources for nutritional counseling and support groups for eating disorder recovery.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers individual and couples counseling services for students dealing with relationship issues. They also have resources for communication skills and relationship education.",
+    "qas": [
+      {
+        "id": "000073",
+        "is_impossible": false,
+        "question": "I'm experiencing relationship problems and it's affecting my mental health. What resources are available for relationship counseling and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers individual and couples counseling services for students dealing with relationship issues. They also have resources for communication skills and relationship education.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers trauma-informed counseling services, as well as resources for trauma education and support groups.",
+    "qas": [
+      {
+        "id": "000074",
+        "is_impossible": false,
+        "question": "I'm dealing with trauma or PTSD. What resources are available for trauma therapy and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers trauma-informed counseling services, as well as resources for trauma education and support groups.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers substance use counseling services, as well as resources for addiction recovery and support groups. They also have partnerships with local treatment centers and referral services.",
+    "qas": [
+      {
+        "id": "000075",
+        "is_impossible": false,
+        "question": "I'm struggling with addiction or substance abuse. What resources are available for substance use treatment and recovery?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers substance use counseling services, as well as resources for addiction recovery and support groups. They also have partnerships with local treatment centers and referral services.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis Student Health and Wellness Center offers ADHD evaluation and treatment services for students, as well as resources for academic support and accommodations.",
+    "qas": [
+      {
+        "id": "000076",
+        "is_impossible": false,
+        "question": "I'm experiencing symptoms of ADHD or other attention-related disorders. What resources are available for diagnosis and treatment?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis Student Health and Wellness Center offers ADHD evaluation and treatment services for students, as well as resources for academic support and accommodations.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis SHCS offers counseling services and support groups for international students dealing with cultural adjustment issues. They also have resources for cross-cultural education and community building.",
+    "qas": [
+      {
+        "id": "000077",
+        "is_impossible": false,
+        "question": "I'm an international student and I'm struggling with mental health issues related to cultural adjustment. Where can I find resources and support?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis SHCS offers counseling services and support groups for international students dealing with cultural adjustment issues. They also have resources for cross-cultural education and community building.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "If you or someone you know is in immediate danger, call 911 or go to the nearest emergency room. UC Davis SHCS offers crisis counseling services and has an after-hours crisis line at 530-752-2349. You can also contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or use their online chat feature.",
+    "qas": [
+      {
+        "id": "000078",
+        "is_impossible": false,
+        "question": "I'm experiencing suicidal thoughts or know someone who is. What should I do and where can I find immediate help?",
+        "answers": 
+        [
+          {
+            "text": "If you or someone you know is in immediate danger, call 911 or go to the nearest emergency room. UC Davis SHCS offers crisis counseling services and has an after-hours crisis line at 530-752-2349. You can also contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255) or use their online chat feature.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+    "qas": [
+      {
+        "id": "000079",
+        "is_impossible": false,
+        "question": "Are there any support groups or workshops for students dealing with specific mental health concerns?",
+        "answers": 
+        [
+          {
+            "text": "Group counseling is a valuable support option for students facing various challenges. Typically consisting of 6-8 members and 1-2 therapists, groups facilitate discussions and skill-building activities to address personal issues. Engaging in group counseling can help students develop their social skills, establish better interpersonal connections, and exchange feedback and experiences with peers. Furthermore, it provides a sense of belonging and allows members to explore issues on a deeper level. Some groups focus on a particular topic or shared experience, while others offer more general support. Here’s a resource with more information and a list of support groups: https://shcs.ucdavis.edu/group-services-new",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "",
+    "qas": [
+      {
+        "id": "000080",
+        "is_impossible": false,
+        "question": "Are there any resources available for students who are experiencing financial difficulties related to mental health care?",
+        "answers": 
+        [
+          {
+            "text": "There are lots of resources available for students who are experiencing financial difficulties related to mental health care. The UC Davis Student Health and Counseling Services (SHCS) offers mental health services at low or no cost to registered UC Davis students who have paid the UC Davis registration fees. They also have a financial assistance program for students who need help covering the cost of mental health services. Here’s more on SHCS:  https://shcs.ucdavis.edu/.The UC Davis Financial Aid and Scholarships Office offers emergency loan programs for students who have unexpected financial difficulties. Here’s more information: https://financialaid.ucdavis.edu/loans/short-term.The UC Davis Health Patient Financial Services department can help students understand their medical bills and insurance coverage, and can offer payment plans or financial assistance programs for those who qualify. Here’s more information: https://health.ucdavis.edu/medicalcenter/patients/financial-assistance.html",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "UC Davis offers a variety of mental health services for its students. Some of these services include: Counseling Services: UC Davis Counseling Services provides individual and group counseling to students. Counseling services are free and confidential to registered UC Davis students. Psychiatry Services: UC Davis Psychiatry Services provides psychiatric evaluations and medication management to students in conjunction with counseling services. Crisis Services: UC Davis has a crisis line available 24/7 for students in need of immediate assistance. Students can call (530) 752-2349 to speak with a mental health professional. Support Groups: UC Davis offers a range of support groups on various topics, such as anxiety, depression, and substance abuse. To access any of these services, students can call (530) 752-0871 to schedule an appointment or visit the Student Health and Counseling Services website for more information.",
+    "qas": [
+      {
+        "id": "000081",
+        "is_impossible": false,
+        "question": "What mental health services are available to UC Davis students?",
+        "answers": 
+        [
+          {
+            "text": "UC Davis offers a variety of mental health services for its students. Some of these services include: Counseling Services: UC Davis Counseling Services provides individual and group counseling to students. Counseling services are free and confidential to registered UC Davis students. Psychiatry Services: UC Davis Psychiatry Services provides psychiatric evaluations and medication management to students in conjunction with counseling services. Crisis Services: UC Davis has a crisis line available 24/7 for students in need of immediate assistance. Students can call (530) 752-2349 to speak with a mental health professional. Support Groups: UC Davis offers a range of support groups on various topics, such as anxiety, depression, and substance abuse. To access any of these services, students can call (530) 752-0871 to schedule an appointment or visit the Student Health and Counseling Services website for more information.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "To make an appointment with a mental health professional on campus, you can follow these steps:Contact Student Health and Counseling Services (SHCS): You can call SHCS at (530) 752-2349 to schedule an appointment with a mental health professional. The staff will ask you some basic questions to determine the urgency of your situation and will schedule an appointment for you based on your availability. Complete Forms: Before your first appointment, you will need to complete some forms, including a personal information form, a consent form, and a brief questionnaire about your mental health history. You can complete these forms online via the SHCS patient portal. Attend Your Appointment: On the day of your appointment, make sure to arrive early and check in at the SHCS front desk. You will then be directed to meet with your mental health professional. It's important to note that there may be a wait time for appointments, especially during peak periods, so it's recommended that you schedule an appointment as soon as possible. If you are in crisis or need immediate assistance, you can call the SHCS crisis line at (530) 752-2349 or 911.",
+    "qas": [
+      {
+        "id": "000082",
+        "is_impossible": false,
+        "question": "How do I make an appointment with a mental health professional on campus?",
+        "answers": 
+        [
+          {
+            "text": "To make an appointment with a mental health professional on campus, you can follow these steps:Contact Student Health and Counseling Services (SHCS): You can call SHCS at (530) 752-2349 to schedule an appointment with a mental health professional. The staff will ask you some basic questions to determine the urgency of your situation and will schedule an appointment for you based on your availability. Complete Forms: Before your first appointment, you will need to complete some forms, including a personal information form, a consent form, and a brief questionnaire about your mental health history. You can complete these forms online via the SHCS patient portal. Attend Your Appointment: On the day of your appointment, make sure to arrive early and check in at the SHCS front desk. You will then be directed to meet with your mental health professional. It's important to note that there may be a wait time for appointments, especially during peak periods, so it's recommended that you schedule an appointment as soon as possible. If you are in crisis or need immediate assistance, you can call the SHCS crisis line at (530) 752-2349 or 911",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "To get accommodations for mental health needs in the classroom, you should contact the Student Disability Center. The UC Davis Student Disability Center (SDC) provides a range of services and accommodations to support students with mental health conditions. The SDC can work with students and their instructors to develop accommodations that support their mental health needs, such as extended time on exams, note-taking assistance, or flexible deadlines. They also provide mental health advising, emotional support animals, and more. Visit this link for more information: https://sdc.ucdavis.edu/students",
+    "qas": [
+      {
+        "id": "000083",
+        "is_impossible": false,
+        "question": "What is the process for getting accommodations for mental health needs in the classroom or for exams?",
+        "answers": 
+        [
+          {
+            "text": "To get accommodations for mental health needs in the classroom, you should contact the Student Disability Center. The UC Davis Student Disability Center (SDC) provides a range of services and accommodations to support students with mental health conditions. The SDC can work with students and their instructors to develop accommodations that support their mental health needs, such as extended time on exams, note-taking assistance, or flexible deadlines. They also provide mental health advising, emotional support animals, and more. Visit this link for more information: https://sdc.ucdavis.edu/students",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world. It’s important to know that it is possible to have good mental health even if you have a mental illness. Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone",
+    "qas": [
+      {
+        "id": "00084",
+        "is_impossible": false,
+        "question": "What is mental health, and how does it differ from mental illness?",
+        "answers": 
+        [
+          {
+            "text": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world.It’s important to know that it is possible to have good mental health even if you have a mental illness.Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone."",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world.It’s important to know that it is possible to have good mental health even if you have a mental illness. Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone.",
+    "qas": [
+      {
+        "id": "00085",
+        "is_impossible": false,
+        "question": "What is mental health, and how does it differ from mental illness?",
+        "answers": 
+        [
+          {
+            "text": "While mental health is always there and may be positive or negative, mental illness affects a person’s ability to function over a long period of time.Mental illness is not the same as feeling sad, unhappy, or stressed because of difficult situations. People with mental illness may feel distressed regularly and may not feel in control of their lives. Mental illness can impact how we see ourselves, how we see the world around us and how we interact with the world.It’s important to know that it is possible to have good mental health even if you have a mental illness. Just like with other conditions, many people with mental illness experience tough times but they can also have periods of better or good mental health. Taking care of your mental health is important for everyone. Source:  https://wellbeing.gov.bc.ca/understandingmentalhealth#:~:text=While%20mental%20health%20is%20always,stressed%20because%20of%20difficult%20situations.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "The exact cause of depression is unknown. It may be caused by a combination of genetic, biological, environmental, and psychological factors. Everyone is different‚ but the following factors may increase a person’s chances of becoming depressed: Having blood relatives who have had depression. Experiencing traumatic or stressful events, such as physical or sexual abuse, the death of a loved one, or financial problems.Going through a major life change‚ even if it was planned.Having a medical problem, such as cancer, stroke, or chronic pain. Taking certain medications. Talk to your doctor if you have questions about whether your medications might be making you feel depressed.Using alcohol or drugs Source: https://www.cdc.gov/tobacco/campaign/tips/diseases/depression-anxiety.html#:~:text=Experiencing%20traumatic%20or%20stressful%20events,Taking%20certain%20medications.",
+    "qas": [
+      {
+        "id": "00086",
+        "is_impossible": false,
+        "question": "What are some common causes of mental health problems, such as depression and anxiety?",
+        "answers": 
+        [
+          {
+            "text": "The exact cause of depression is unknown. It may be caused by a combination of genetic, biological, environmental, and psychological factors. Everyone is different‚ but the following factors may increase a person’s chances of becoming depressed: Having blood relatives who have had depression. Experiencing traumatic or stressful events, such as physical or sexual abuse, the death of a loved one, or financial problems.Going through a major life change‚ even if it was planned.Having a medical problem, such as cancer, stroke, or chronic pain. Taking certain medications. Talk to your doctor if you have questions about whether your medications might be making you feel depressed.Using alcohol or drugs Source: https://www.cdc.gov/tobacco/campaign/tips/diseases/depression-anxiety.html#:~:text=Experiencing%20traumatic%20or%20stressful%20events,Taking%20certain%20medications.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "If you think your loved one is having mental health problems, there are a few mental health crisis symptoms you should watch out for. When in doubt, you should always reach out to a mental health professional for more help. The following symptoms are signs someone may be dealing with a mental health crisis. Isolation from loved ones. Sudden mood swings or changes in energy levels. Inability to take care of daily tasks and grooming activities. Agitation and violent behavior. Destruction of property and violent threats.Self-harm behaviors or abusive behaviors towards self and other people. Pacing or problems sitting still.Paranoia.Psychosis and a sense of being out of touch with reality.Hearing voices and seeing things that aren’t there source: https://www.georgetownbehavioral.com/node/3382.",
+    "qas": [
+      {
+        "id": "00087",
+        "is_impossible": false,
+        "question": "What are some warning signs that someone may be experiencing a mental health crisis?",
+        "answers": 
+        [
+          {
+            "text": "If you think your loved one is having mental health problems, there are a few mental health crisis symptoms you should watch out for. When in doubt, you should always reach out to a mental health professional for more help. The following symptoms are signs someone may be dealing with a mental health crisis. Isolation from loved ones. Sudden mood swings or changes in energy levels. Inability to take care of daily tasks and grooming activities. Agitation and violent behavior. Destruction of property and violent threats.Self-harm behaviors or abusive behaviors towards self and other people. Pacing or problems sitting still.Paranoia.Psychosis and a sense of being out of touch with reality.Hearing voices and seeing things that aren’t there source: https://www.georgetownbehavioral.com/node/3382.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "You can find ways to support a loved one who is struggling with mental health here: https://psychcentral.com/lib/15-ways-to-support-a-loved-one-with-serious-mental-illness#1..",
+    "qas": [
+      {
+        "id": "00088",
+        "is_impossible": false,
+        "question": "How can I support a loved one who is struggling with their mental health?",
+        "answers": 
+        [
+          {
+            "text": "You can find ways to support a loved one who is struggling with mental health here: https://psychcentral.com/lib/15-ways-to-support-a-loved-one-with-serious-mental-illness#1..",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "A 2018 University of Pennsylvania study found that reducing social media use to 30 minutes a day resulted in a significant reduction in levels of anxiety, depression, loneliness, sleep problems, and FOMO. But you don’t need to cut back on your social media use that drastically to improve your mental health. The same study concluded that just being more mindful of your social media use can have beneficial results on your mood and focus. While 30 minutes a day may not be a realistic target for many of us—let alone a full “social media detox”— we can still benefit from reducing the amount of time we spend on social media. For most of us, that means reducing how much we use our smartphones. The following tips can help: Use an app to track how much time you spend on social media each day. Then set a goal for how much you want to reduce it by. Turn off your phone at certain times of the day, such as when you’re driving, in a meeting, at the gym, having dinner, spending time with offline friends, or playing with your kids. Don’t take your phone with you to the bathroom.Don’t bring your phone or tablet to bed. Turn devices off and leave them in another room overnight to charge. Disable social media notifications. It’s hard to resist the constant buzzing, beeping, and dinging of your phone alerting you to new messages. Turning off notifications can help you regain control of your time and focus.Limit checks. If you compulsively check your phone every few minutes, wean yourself off by limiting your checks to once every 15 minutes. Then once every 30 minutes, then once an hour. There are apps that canautomatically limit when you’re able to access your phone.Try removing social media apps from your phone so you can only check Facebook, Twitter and the like from your tablet or computer. If this sounds like too drastic a step, try removing one social media app at a time to see how much you really miss it. Source: https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm#:~:text=A%202018%20University%20of%20Pennsylvania,to%20improve%20your%20mental%20health.",
+    "qas": [
+      {
+        "id": "00089",
+        "is_impossible": false,
+        "question": "How can social media use impact mental health, and what steps can be taken to manage its effects?",
+        "answers": 
+        [
+          {
+            "text": "A 2018 University of Pennsylvania study found that reducing social media use to 30 minutes a day resulted in a significant reduction in levels of anxiety, depression, loneliness, sleep problems, and FOMO. But you don’t need to cut back on your social media use that drastically to improve your mental health. The same study concluded that just being more mindful of your social media use can have beneficial results on your mood and focus. While 30 minutes a day may not be a realistic target for many of us—let alone a full “social media detox”— we can still benefit from reducing the amount of time we spend on social media. For most of us, that means reducing how much we use our smartphones. The following tips can help: Use an app to track how much time you spend on social media each day. Then set a goal for how much you want to reduce it by. Turn off your phone at certain times of the day, such as when you’re driving, in a meeting, at the gym, having dinner, spending time with offline friends, or playing with your kids. Don’t take your phone with you to the bathroom.Don’t bring your phone or tablet to bed. Turn devices off and leave them in another room overnight to charge. Disable social media notifications. It’s hard to resist the constant buzzing, beeping, and dinging of your phone alerting you to new messages. Turning off notifications can help you regain control of your time and focus.Limit checks. If you compulsively check your phone every few minutes, wean yourself off by limiting your checks to once every 15 minutes. Then once every 30 minutes, then once an hour. There are apps that canautomatically limit when you’re able to access your phone.Try removing social media apps from your phone so you can only check Facebook, Twitter and the like from your tablet or computer. If this sounds like too drastic a step, try removing one social media app at a time to see how much you really miss it. Source: https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm#:~:text=A%202018%20University%20of%20Pennsylvania,to%20improve%20your%20mental%20health.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "Most pet owners are clear about the immediate joys that come with sharing their lives with companion animals. However, many of us remain unaware of the physical and mental health benefits that can also accompany the pleasure of snuggling up to a furry friend. It’s only recently that studies have begun to scientifically explore the benefits of the human-animal bond.Pets have evolved to become acutely attuned to humans and our behavior and emotions. Dogs, for example, are able to understand many of the words we use, but they’re even better at interpreting our tone of voice, body language, and gestures. And like any good human friend, a loyal dog will look into your eyes to gauge your emotional state and try to understand what you’re thinking and feeling (and to work out when the next walk or treat might be coming, of course).Pets, especially dogs and cats, can reduce stress, anxiety, and depression, ease loneliness, encourage exercise and playfulness, and even improve your cardiovascular health. Caring for an animal can help children grow up more secure and active. Pets also provide valuable companionship for older adults. Perhaps most importantly, though, a pet can add real joy and unconditional love to your life Source: https://www.helpguide.org/articles/mental-health/mood-boosting-power-of-dogs.htm#:~:text=Pets%2C%20especially%20dogs%20and%20cats,valuable%20companionship%20for%20older%20adults..",
+    "qas": [
+      {
+        "id": "00090",
+        "is_impossible": false,
+        "question": "Can pets have a positive impact on mental health, and how can pet therapy be utilized in treatment?",
+        "answers": 
+        [
+          {
+            "text": "Most pet owners are clear about the immediate joys that come with sharing their lives with companion animals. However, many of us remain unaware of the physical and mental health benefits that can also accompany the pleasure of snuggling up to a furry friend. It’s only recently that studies have begun to scientifically explore the benefits of the human-animal bond.Pets have evolved to become acutely attuned to humans and our behavior and emotions. Dogs, for example, are able to understand many of the words we use, but they’re even better at interpreting our tone of voice, body language, and gestures. And like any good human friend, a loyal dog will look into your eyes to gauge your emotional state and try to understand what you’re thinking and feeling (and to work out when the next walk or treat might be coming, of course).Pets, especially dogs and cats, can reduce stress, anxiety, and depression, ease loneliness, encourage exercise and playfulness, and even improve your cardiovascular health. Caring for an animal can help children grow up more secure and active. Pets also provide valuable companionship for older adults. Perhaps most importantly, though, a pet can add real joy and unconditional love to your life Source: https://www.helpguide.org/articles/mental-health/mood-boosting-power-of-dogs.htm#:~:text=Pets%2C%20especially%20dogs%20and%20cats,valuable%20companionship%20for%20older%20adults..",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  }, 
+{
+    "context": "1. Myth: If a person has a mental health condition, it means the person has low intelligence. Fact: Mental illness, like physical illness, can affect anyone regardless of intelligence, social class, or income level. 2. Myth: You only need to take care of your mental health if you have a mental health condition. Fact: Everyone can benefit from taking active steps to promote their well-being and improve their mental health. Similarly, everyone can take active steps and engage in healthy habits to optimize their physical health.3. Myth: Poor mental health is not a big issue for teenagers. They just have mood swings caused by hormonal fluctuations and act out due to a desire for attention. Fact: Teenagers often have mood swings, but that does not mean that adolescents may not also struggle with their mental health. Fourteen per cent of the world’s adolescents experience mental-health problems. Globally, among those aged 10 15, suicide is the fifth most prevalent cause of death, and for adolescents aged 15–19 it is the fourth most common cause. Half of all mental health conditions start by the age of 14.4. Myth: Nothing can be done to protect people from developing mental health conditions.Fact: Many factors can protect people from developing mental health conditions, including strengthening social and emotional skills, seeking help and support early on, developing supportive, loving, warm family relationships, and having a positive school environment and healthy sleep patterns.The ability to overcome adversity relies on a combination of protective factors, and neither environmental nor individual stressors alone will necessarily result in mental health problems. Children and adolescents who do well in the face of adversity typically have biological resistance as well as strong, supportive relationships with family, friends and adults around them, resulting in a combination of protective factors to support well-being. 5. Myth: A mental health condition is a sign of weakness; if the person were stronger, they would not have this condition. Fact: A mental health condition has nothing to do with being weak or lacking willpower. It is not a condition people choose to have or not have. In fact, recognizing the need to accept help for a mental health condition requires great strength and courage. Anyone can develop a mental health condition. 6. Myth: Adolescents who get good grades and have a lot of friends will not have mental health conditions because they have nothing to be depressed about. Fact: Depression is a common mental health condition resulting from a complexinteraction of social, psychological, and biological factors. Depression can affect anyone regardless of their socioeconomic status or how good their life appears at face value. Young people doing well in school may feel pressure to succeed, which can cause anxiety, or they may have challenges at home. They may also experience depression or anxiety for no reason that can be easily identified. 7. Myth: Bad parenting causes mental conditions in adolescents.Fact: Many factors – including poverty, unemployment, and exposure to violence, migration, and other adverse circumstances and events – may influence the well-being and mental health of adolescents, their caregivers and the relationship between them. Adolescents from loving, supporting homes can experience mental health difficulties, as can adolescent from homes where there may be caregivers who need support to maintain an optimum environment for healthy adolescent development. With support, caregivers can play an essential role in helping adolescents to overcome any problems they experience.  Source: https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health",
+    "qas": [
+      {
+        "id": "00091",
+        "is_impossible": false,
+        "question": "What are some common myths and misconceptions about mental health, and how can they be addressed?",
+        "answers": 
+        [
+          {
+            "text": "1. Myth: If a person has a mental health condition, it means the person has low intelligence. Fact: Mental illness, like physical illness, can affect anyone regardless of intelligence, social class, or income level. 2. Myth: You only need to take care of your mental health if you have a mental health condition. Fact: Everyone can benefit from taking active steps to promote their well-being and improve their mental health. Similarly, everyone can take active steps and engage in healthy habits to optimize their physical health.3. Myth: Poor mental health is not a big issue for teenagers. They just have mood swings caused by hormonal fluctuations and act out due to a desire for attention. Fact: Teenagers often have mood swings, but that does not mean that adolescents may not also struggle with their mental health. Fourteen per cent of the world’s adolescents experience mental-health problems. Globally, among those aged 10 15, suicide is the fifth most prevalent cause of death, and for adolescents aged 15–19 it is the fourth most common cause. Half of all mental health conditions start by the age of 14.4. Myth: Nothing can be done to protect people from developing mental health conditions.Fact: Many factors can protect people from developing mental health conditions, including strengthening social and emotional skills, seeking help and support early on, developing supportive, loving, warm family relationships, and having a positive school environment and healthy sleep patterns.The ability to overcome adversity relies on a combination of protective factors, and neither environmental nor individual stressors alone will necessarily result in mental health problems. Children and adolescents who do well in the face of adversity typically have biological resistance as well as strong, supportive relationships with family, friends and adults around them, resulting in a combination of protective factors to support well-being. 5. Myth: A mental health condition is a sign of weakness; if the person were stronger, they would not have this condition. Fact: A mental health condition has nothing to do with being weak or lacking willpower. It is not a condition people choose to have or not have. In fact, recognizing the need to accept help for a mental health condition requires great strength and courage. Anyone can develop a mental health condition. 6. Myth: Adolescents who get good grades and have a lot of friends will not have mental health conditions because they have nothing to be depressed about. Fact: Depression is a common mental health condition resulting from a complexinteraction of social, psychological, and biological factors. Depression can affect anyone regardless of their socioeconomic status or how good their life appears at face value. Young people doing well in school may feel pressure to succeed, which can cause anxiety, or they may have challenges at home. They may also experience depression or anxiety for no reason that can be easily identified. 7. Myth: Bad parenting causes mental conditions in adolescents.Fact: Many factors – including poverty, unemployment, and exposure to violence, migration, and other adverse circumstances and events – may influence the well-being and mental health of adolescents, their caregivers and the relationship between them. Adolescents from loving, supporting homes can experience mental health difficulties, as can adolescent from homes where there may be caregivers who need support to maintain an optimum environment for healthy adolescent development. With support, caregivers can play an essential role in helping adolescents to overcome any problems they experience.  Source: https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  }, 
+
+{
+    "context": "Mental and physical health is fundamentally linked. There are multiple associations between mental health and chronic physical conditions that significantly impact people’s quality of life, demands on health care and other publicly funded services, and generate consequences to society.  The World Health Organization (WHO) defines: health as a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.   The WHO states that “there is no health without mental health.”Nowhere is the relationship between mental and physical health more evident than in the area of chronic conditions. The associations between mental and physical health are: Poor mental health is a risk factor for chronic physical conditions.People with serious mental health conditions are at high risk of experiencing chronic physical conditions.People with chronic physical conditions are at risk of developing poor mental health.The social determinants of health impact both chronic physical conditions and mental health. Key aspects of prevention include increasing physical activity, access to nutritious foods, ensuring adequate income and fostering social inclusion and social support. This creates opportunities to enhance protective factors and reduce risk factors related to aspects of mental and physical health.Understanding the links between mind and body is the first step in developing strategies to reduce the incidence of co-existing conditions and support those already living with mental illnesses and chronic physical conditions. Source: https://ontario.cmha.ca/documents/connection-between-mental-and-physical-health/#:~:text=The%20associations%20between%20mental%20and,of%20developing%20poor%20mental%20health.",
+    "qas": [
+      {
+        "id": "00092",
+        "is_impossible": false,
+        "question": "What is the connection between physical health and mental health, and how can one impact the other?",
+        "answers": 
+        [
+          {
+            "text": "Mental and physical health is fundamentally linked. There are multiple associations between mental health and chronic physical conditions that significantly impact people’s quality of life, demands on health care and other publicly funded services, and generate consequences to society.  The World Health Organization (WHO) defines: health as a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.   The WHO states that “there is no health without mental health.”Nowhere is the relationship between mental and physical health more evident than in the area of chronic conditions. The associations between mental and physical health are: Poor mental health is a risk factor for chronic physical conditions.People with serious mental health conditions are at high risk of experiencing chronic physical conditions.People with chronic physical conditions are at risk of developing poor mental health.The social determinants of health impact both chronic physical conditions and mental health. Key aspects of prevention include increasing physical activity, access to nutritious foods, ensuring adequate income and fostering social inclusion and social support. This creates opportunities to enhance protective factors and reduce risk factors related to aspects of mental and physical health.Understanding the links between mind and body is the first step in developing strategies to reduce the incidence of co-existing conditions and support those already living with mental illnesses and chronic physical conditions. Source: https://ontario.cmha.ca/documents/connection-between-mental-and-physical-health/#:~:text=The%20associations%20between%20mental%20and,of%20developing%20poor%20mental%20health.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+{
+    "context": "Meditation has been studied in many clinical trials. The overall evidence supports the effectiveness of meditation for various conditions, including: Stress, Anxiety, Pain, Depression, Insomnia, High blood pressure (hypertension) Preliminary research indicates that meditation can also help people with asthma and fibromyalgia. Meditation can help you experience thoughts and emotions with greater balance and acceptance. Meditation also has been shown to: Improve attention, Decrease job burnout, Improve sleep, Improve diabetes control Source: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/mindfulness exercises/art-20046356.",
+    "qas": [
+      {
+        "id": "00093",
+        "is_impossible": false,
+        "question": "How can mindfulness practices, such as mindful breathing or body scans, be used to manage symptoms of anxiety and stress?",
+        "answers": 
+        [
+          {
+            "text": "Meditation has been studied in many clinical trials. The overall evidence supports the effectiveness of meditation for various conditions, including: Stress, Anxiety, Pain, Depression, Insomnia, High blood pressure (hypertension) Preliminary research indicates that meditation can also help people with asthma and fibromyalgia. Meditation can help you experience thoughts and emotions with greater balance and acceptance. Meditation also has been shown to: Improve attention, Decrease job burnout, Improve sleep, Improve diabetes control Source: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/mindfulness exercises/art-20046356.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "It can be difficult to determine if you are drinking too much, as there is no specific guideline that applies to everyone. However, there are some signs that can indicate you may be drinking too much.Some signs that you may be drinking too much include: Drinking more than the recommended limits for alcohol consumption (4 drinks per day for men and no more than 3 drinks per day for women), drinking to cope with stress or emotions, neglecting responsibilities, blacking out or experiencing memory loss, and experiencing negative consequences. If you are concerned about your drinking habits, you may want to consider seeking help. UC Davis has a variety of resources available to students who are struggling with alcohol or other substance use. In addition to student counseling services, the UC Davis Alcohol and Drug Education Program provides resources and support for students who want to reduce their alcohol or drug use.",
+
+    "qas": [
+      {
+        "id": "00094",
+        "is_impossible": false,
+        "question": "How do I know if I'm drinking too much?",
+        "answers": 
+        [
+          {
+            "text": "It can be difficult to determine if you are drinking too much, as there is no specific guideline that applies to everyone. However, there are some signs that can indicate you may be drinking too much.Some signs that you may be drinking too much include: Drinking more than the recommended limits for alcohol consumption (4 drinks per day for men and no more than 3 drinks per day for women), drinking to cope with stress or emotions, neglecting responsibilities, blacking out or experiencing memory loss, and experiencing negative consequences. If you are concerned about your drinking habits, you may want to consider seeking help. UC Davis has a variety of resources available to students who are struggling with alcohol or other substance use. In addition to student counseling services, the UC Davis Alcohol and Drug Education Program provides resources and support for students who want to reduce their alcohol or drug use.",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+   {
+    "context": "Legalizing cannabis provides an opportunity to put in place regulations to minimize potential harms. When drugs are produced and obtained inside a regulated system, it is possible for us to know about the contents and dosage of what we are taking. This helps us manage the risks. However, it is likely that cannabis will still be available outside the government system. It is important to know that the quality of cannabis obtained from a dealer or a friend is unknown and may contain contaminants like mold, mildew, or fillers that may be toxic. The legalization of cannabis also provides us with openings to engage in honest and thoughtful discussions about drug use with our families and communities.Here are some UC Davis policies on marijuana: https://shcs.ucdavis.edu/health-and-wellness/alcohol-tobacco-and-other-drugs/marijuana/policy",
+
+    "qas": [
+      {
+        "id": "00095",
+        "is_impossible": false,
+        "question": "If cannabis is dangerous, why are we legalizing it?",
+        "answers": 
+        [
+          {
+            "text": "Legalizing cannabis provides an opportunity to put in place regulations to minimize potential harms. When drugs are produced and obtained inside a regulated system, it is possible for us to know about the contents and dosage of what we are taking. This helps us manage the risks. However, it is likely that cannabis will still be available outside the government system. It is important to know that the quality of cannabis obtained from a dealer or a friend is unknown and may contain contaminants like mold, mildew, or fillers that may be toxic. The legalization of cannabis also provides us with openings to engage in honest and thoughtful discussions about drug use with our families and communities.Here are some UC Davis policies on marijuana: https://shcs.ucdavis.edu/health-and-wellness/alcohol-tobacco-and-other-drugs/marijuana/policy",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+    {
+    "context": "You can't. However, opening up a discussion about drugs can help strengthen your relationship with your child. Inviting and allowing open, honest conversation about drugs (or any other subject) makes your child know that what they are thinking, feeling and experiencing matters to you. The goal is to get your child talking and sharing their thoughts and feelings.Talking with teens and young adults about drugs as they make choices on the path into adulthood helps them to develop personal standards, minimize risks and critically assess popular beliefs about drug use. This can be particularly important as they transition to the legal age for using alcohol or cannabis and move out of the family home. While young adults have more independence and more legal rights, parents can continue to be an important sounding board on which to try out their thoughts and ideas.",
+
+    "qas": [
+      {
+        "id": "00096",
+        "is_impossible": false,
+        "question": "How can I convince my kids not to use drugs?",
+        "answers": 
+        [
+          {
+            "text": "You can't. However, opening up a discussion about drugs can help strengthen your relationship with your child. Inviting and allowing open, honest conversation about drugs (or any other subject) makes your child know that what they are thinking, feeling and experiencing matters to you. The goal is to get your child talking and sharing their thoughts and feelings.Talking with teens and young adults about drugs as they make choices on the path into adulthood helps them to develop personal standards, minimize risks and critically assess popular beliefs about drug use. This can be particularly important as they transition to the legal age for using alcohol or cannabis and move out of the family home. While young adults have more independence and more legal rights, parents can continue to be an important sounding board on which to try out their thoughts and ideas.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+{
+    "context": "Cannabidiol or CBD is a naturally occurring component of cannabis. It is extracted from the cannabis plant and often made into an oil for use. CBD is not psychoactive, and does not produce the ‘high’ of THC (tetrahyrocannabinol), the primary psychoactive component of cannabis. After researching the safety and effectiveness of CBD oil for treating epilepsy, in 2018, the United States FDA approved CBD (Epidiolex) as a therapy for two rare conditions characterized by epileptic seizures. Other evidence suggests that CBD may be useful in the treatment of schizophrenia, though further research is needed before introducing CBD into medical practice. Currently,under federal law, CBD consumers can receive CBD products in the mail across all 50 states, as long as they are hemp-derived and contain less than 0.3% THC. For more information, visit https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd",
+
+    "qas": [
+      {
+        "id": "00097",
+        "is_impossible": false,
+        "question": "What is the legal status (and evidence) of CBD oil?",
+        "answers": 
+        [
+          {
+            "text": "Cannabidiol or CBD is a naturally occurring component of cannabis. It is extracted from the cannabis plant and often made into an oil for use. CBD is not psychoactive, and does not produce the ‘high’ of THC (tetrahyrocannabinol), the primary psychoactive component of cannabis. After researching the safety and effectiveness of CBD oil for treating epilepsy, in 2018, the United States FDA approved CBD (Epidiolex) as a therapy for two rare conditions characterized by epileptic seizures. Other evidence suggests that CBD may be useful in the treatment of schizophrenia, though further research is needed before introducing CBD into medical practice. Currently,under federal law, CBD consumers can receive CBD products in the mail across all 50 states, as long as they are hemp-derived and contain less than 0.3% THC. For more information, visit https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "context": "'Vaping' is the term for using a device where liquids, often flavoured, are turned into vapour (hence, vaping) and inhaled. Though less harmful than smoking cigarettes, vaping still carries potential harms. There is a small exposure to nicotine and possible carcinogens in the vapour. (A carcinogen is a substance that has the potential to cause cancer). Some evidence suggests that young people may be unaware the vaping liquid often contains nicotine. E-cigarettes are not controlled and the nicotine content of vaping liquids varies significantly among brands. Other chemicals, flavourings, and heavy metals present in vaping liquids, have not as yet been well studied. Long-term health risks from vaping are thus undetermined. More research is needed in these areas.Here's a helpful resource provided by UC Davis: https://healthy.ucdavis.edu/smoke-tobacco-free/vaping-campaign",
+
+    "qas": [
+      {
+        "id": "00098",
+        "is_impossible": false,
+        "question": "What is the evidence on vaping?",
+        "answers": 
+        [
+          {
+            "text": " 'Vaping' is the term for using a device where liquids, often flavoured, are turned into vapour (hence, vaping) and inhaled. Though less harmful than smoking cigarettes, vaping still carries potential harms. There is a small exposure to nicotine and possible carcinogens in the vapour. (A carcinogen is a substance that has the potential to cause cancer). Some evidence suggests that young people may be unaware the vaping liquid often contains nicotine. E-cigarettes are not controlled and the nicotine content of vaping liquids varies significantly among brands. Other chemicals, flavourings, and heavy metals present in vaping liquids, have not as yet been well studied. Long-term health risks from vaping are thus undetermined. More research is needed in these areas.Here's a helpful resource provided by UC Davis: https://healthy.ucdavis.edu/smoke-tobacco-free/vaping-campaign",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "context": "The Student Health and Counseling Services (SHCS) provides a range of mental health services, including individual counseling, group therapy, psychiatric medication management, and crisis support. These services are available to all registered students, and are covered by the student health insurance plan (UC SHIP) and have prices listed on their website for students under another health insurance plan: https://shcs.ucdavis.edu/services/primary-care",
+
+    "qas": [
+      {
+        "id": "00098",
+        "is_impossible": false,
+        "question": "What is the SHCS?",
+        "answers": 
+        [
+          {
+            "text": " The Student Health and Counseling Services (SHCS) provides a range of mental health services, including individual counseling, group therapy, psychiatric medication management, and crisis support. These services are available to all registered students, and are covered by the student health insurance plan (UC SHIP) and have prices listed on their website for students under another health insurance plan: https://shcs.ucdavis.edu/services/primary-care",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Individual Counseling is confidential short-term therapy available to all registered UC Davis students for free at North Hall. UC Davis Counseling Appointments are free and short-term; counselors will help students find a counselor or healthcare provider who is covered by their insurance. Other programs on campus, including counseling provided by Community Advising Network (CAN) and group counseling, are also free to UC Davis students.For more information, visit https://shcs.ucdavis.edu/services",
+
+    "qas": [
+      {
+        "id": "00099",
+        "is_impossible": false,
+        "question": "Is counseling free for UC Davis students?",
+        "answers": 
+        [
+          {
+            "text": "Individual Counseling is confidential short-term therapy available to all registered UC Davis students for free at North Hall. UC Davis Counseling Appointments are free and short-term; counselors will help students find a counselor or healthcare provider who is covered by their insurance. Other programs on campus, including counseling provided by Community Advising Network (CAN) and group counseling, are also free to UC Davis students. For more information, visit https://shcs.ucdavis.edu/services",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "With UC SHIP, students receive 6 1-1 counseling sessions over the course of a year, with unlimited group and other counseling sessions. After the initial appointment for counseling, students without SHIP will be referred to other healthcare providers who are covered by their insurance. For more information, visit https://shcs.ucdavis.edu/services",
+
+    "qas": [
+      {
+        "id": "00100",
+        "is_impossible": false,
+        "question": "How many sessions do students get counseling for?",
+        "answers": 
+        [
+          {
+            "text": "With UC SHIP, students receive 6 1-1 counseling sessions over the course of a year, with unlimited group and other counseling sessions. After the initial appointment for counseling, students without SHIP will be referred to other healthcare providers who are covered by their insurance.For more information, visit https://shcs.ucdavis.edu/services",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. The plan is built especially for students, and students are actively involved in its design.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be waived. Source: https://myucship.org/uc-davis/benefits-101/about-uc-ship/#:~:text=The%20University%20of%20California%20Student,actively%20involved%20in%20its%20design.",
+
+    "qas": [
+      {
+        "id": "00101",
+        "is_impossible": false,
+        "question": "What is UC SHIP?",
+        "answers": 
+        [
+          {
+            "text": "According to the UC SHIP website, 'The University of California Student Health Insurance Plan (UC SHIP) provides high-quality, affordable and convenient coverage that protects students from unexpected health care costs. The plan is built especially for students, and students are actively involved in its design.' UC students are mandated to be under a health insurance plan, so students at UC Davis are automatically enrolled into UC SHIP and must submit a waiver with proof of alternate health insurance for the insurance coverage and associated fees to be waived. Source: https://myucship.org/uc-davis/benefits-101/about-uc-ship/#:~:text=The%20University%20of%20California%20Student,actively%20involved%20in%20its%20design.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Therapy Assistance Online (TAO) is a mental health website and app to help people improve their mental health and wellbeing, with tools and videos for mindfulness and other resources. Lyra is a website and tool used for students with UC SHIP coverage that aims to match them to healthcare providers based on their specific needs and issues.",
+
+    "qas": [
+      {
+        "id": "00102",
+        "is_impossible": false,
+        "question": "What are TAO and Lyra?",
+        "answers": 
+        [
+          {
+            "text": "Therapy Assistance Online (TAO) is a mental health website and app to help people improve their mental health and wellbeing, with tools and videos for mindfulness and other resources. Lyra is a website and tool used for students with UC SHIP coverage that aims to match them to healthcare providers based on their specific needs and issues.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "The AATC (Academic Assistance and Tutoring Centers) are available to help with most lower-division courses. There are options for 1-1 tutoring, group sessions, and drop-ins at the library and the Teaching and Learning Complex (TLC). The Office of Educational Opportunity and Enrichment Services (OEOES) offers success coaching and other help. Sources: https://opportunity.ucdavis.edu/services/scls; https://tutoring.ucdavis.edu/ ",
+
+    "qas": [
+      {
+        "id": "00103",
+        "is_impossible": false,
+        "question": "What are some resources for students struggling academically at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "The AATC (Academic Assistance and Tutoring Centers) are available to help with most lower-division courses. There are options for 1-1 tutoring, group sessions, and drop-ins at the library and the Teaching and Learning Complex (TLC). The Office of Educational Opportunity and Enrichment Services (OEOES) offers success coaching and other help. Sources: https://opportunity.ucdavis.edu/services/scls; https://tutoring.ucdavis.edu/ ",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "According to the UC Davis Student Affairs website: 'At UC Davis, 1 out of 3 students reported experiencing psychological distress, according to a recent assessment by the American College Health Association. 58.1% reported experiencing loneliness, and 30.6% reporting having thoughts of suicide using the Suicide Behaviors Questionnaire- Revised (SBQR)' This proves that mental health problems are quite common at UC Davis—if you are struggling, you are definitely not alone.",
+
+    "qas": [
+      {
+        "id": "00104",
+        "is_impossible": false,
+        "question": "What proportion of UC Davis students are dealing with mental health issues?",
+        "answers": 
+        [
+          {
+            "text": "According to the UC Davis Student Affairs website: 'At UC Davis, 1 out of 3 students reported experiencing psychological distress, according to a recent assessment by the American College Health Association. 58.1% reported experiencing loneliness, and 30.6% reporting having thoughts of suicide using the Suicide Behaviors Questionnaire- Revised (SBQR)' This proves that mental health problems are quite common at UC Davis—if you are struggling, you are definitely not alone.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+   {
+    "context": "It is quite common for mental health issues to be stigmatized for social, financial, and religious reasons. If a parent or other family member dismisses your mental health struggles, one effective solution is to try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
+
+    "qas": [
+      {
+        "id": "00105",
+        "is_impossible": false,
+        "question": "What should I do if my family invalidates my mental health struggles/issues?",
+        "answers": 
+        [
+          {
+            "text": "It is quite common for mental health issues to be stigmatized for social, financial, and religious reasons. If a parent or other family member dismisses your mental health struggles, one effective solution is to try to understand their point of view and approach the situation from that angle, attempting to bridge any gaps in understanding or culture. Even if family members dismiss concerns about your mental health, they still care about your social and academic success, so try to frame the issue in one of those contexts instead. Source: https://evolvetreatment.com/blog/family-denies-mental-illness/",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesickness, which both involve leaving your room or apartment for classes and any events that catch your eye. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+
+    "qas": [
+      {
+        "id": "00106",
+        "is_impossible": false,
+        "question": "How do I deal with homesickness while I'm at college?",
+        "answers": 
+        [
+          {
+            "text": "Staying in touch with friends and family from back home is a great way to combat homesickness. Making new friends and trying new things are both great ways to reduce feelings of homesickness, which both involve leaving your room or apartment for classes and any events that catch your eye. Source: https://www.bestcolleges.com/blog/homesickness-in-college/#:~:text=Strategies%20for%20dealing%20with%20college,counseling%20services%20at%20your%20school.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "context": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+
+    "qas": [
+      {
+        "id": "00107",
+        "is_impossible": false,
+        "question": "How can I reduce test-taking anxiety before midterms and finals?",
+        "answers": 
+        [
+          {
+            "text": "The Office of Educational Opportunity and Enrichment Services (OEOES) offers multiple study strategies and has this page devoted to reducing test-taking anxiety: https://opportunity.ucdavis.edu/sites/g/files/dgvnsk2741/files/inline-files/test-induced-anxiety.pdf",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "context": "The most effective way to make friends on campus is to maximize your interactions with new people, which includes going to classes in person, attending club meetings and other social events, and trying new activities like fitness classes or intramural sports. The SHCS has this website with tips on how to make a friend: https://shcs.ucdavis.edu/health-topic/how-make-friend. ",
+
+    "qas": [
+      {
+        "id": "00108",
+        "is_impossible": false,
+        "question": "What are some ways to meet new people or make friends at UC Davis?",
+        "answers": 
+        [
+          {
+            "text": "The most effective way to make friends on campus is to maximize your interactions with new people, which includes going to classes in person, attending club meetings and other social events, and trying new activities like fitness classes or intramural sports. The SHCS has this website with tips on how to make a friend: https://shcs.ucdavis.edu/health-topic/how-make-friend. ",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "context": "The Arboretum has plenty of nature trails and areas that are ideal for walking or just admiring the scenery. Fitness can be a great way to release stress and stay physically and mentally healthy; the Activities and Recreation Center (ARC) and Recreation Pool are just a few of the options to exercise on campus. The UC Davis Nap Map is also a great resource for finding a place on campus to take a quick break: https://cie.ucdavis.edu/news/need-quick-snooze-visit-uc-davis-nap-map. Sources: https://studentaffairs.ucdavis.edu/getting-help/health",
+
+    "qas": [
+      {
+        "id": "00109",
+        "is_impossible": false,
+        "question": "What are the best spots on campus to de-stress or unwind?",
+        "answers": 
+        [
+          {
+            "text": "The Arboretum has plenty of nature trails and areas that are ideal for walking or just admiring the scenery. Fitness can be a great way to release stress and stay physically and mentally healthy; the Activities and Recreation Center (ARC) and Recreation Pool are just a few of the options to exercise on campus. The UC Davis Nap Map is also a great resource for finding a place on campus to take a quick break: https://cie.ucdavis.edu/news/need-quick-snooze-visit-uc-davis-nap-map. Sources: https://studentaffairs.ucdavis.edu/getting-help/health",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+
+   {
+    "context": "General tips for reducing insomnia include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy eating schedule and eating at the right time (a few hours before sleeping), and writing down a to-do list for the next day so you can clear those tasks from your mind. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
+
+    "qas": [
+      {
+        "id": "00110",
+        "is_impossible": false,
+        "question": "What are some tools to deal with insomnia?",
+        "answers": 
+        [
+          {
+            "text": "General tips for reducing insomnia include staying off your phone and reducing screen time directly before going to bed, getting plenty of exercise, maintaining a healthy eating schedule and eating at the right time (a few hours before sleeping), and writing down a to-do list for the next day so you can clear those tasks from your mind. The Sleep page on the healthy UC Davis website has resources for people to deal with insomnia: https://healthy.ucdavis.edu/mental-emotional/resource-library/general/sleep.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+   {
+    "context": "The key component to a healthy sleep schedule is consistency: ensure that classes and meetings are scheduled such that you can sleep and wake up around the same time every day, and at a time that you are comfortable with based on your sleep habits (for a night owl, for example, this would mean scheduling classes later in the day whenever possible). Avoiding procrastination is also key to reducing the need to pull all-nighters to study or finish assignments. Having a consistent nightly routine also improves one's sleep schedule and reduces insomnia.",
+
+    "qas": [
+      {
+        "id": "00111",
+        "is_impossible": false,
+        "question": "How can I improve my sleep schedule?",
+        "answers": 
+        [
+          {
+            "text": "The key component to a healthy sleep schedule is consistency: ensure that classes and meetings are scheduled such that you can sleep and wake up around the same time every day, and at a time that you are comfortable with based on your sleep habits (for a night owl, for example, this would mean scheduling classes later in the day whenever possible). Avoiding procrastination is also key to reducing the need to pull all-nighters to study or finish assignments. Having a consistent nightly routine also improves one's sleep schedule and reduces insomnia.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+
+   {
+    "context": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early (within the first 2 weeks of a quarter) so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
+
+    "qas": [
+      {
+        "id": "00112",
+        "is_impossible": false,
+        "question": "How can I request a mental-health based extension on an assignment or exam?",
+        "answers": 
+        [
+          {
+            "text": "Student Disability Center (SDC) accomodations can be made for mental health purposes, which will allow extensions or extra time on assignments or exams. To request initial accomodations, it is recommended to ask early (within the first 2 weeks of a quarter) so that accomodations can be approved in time, but they may be provided if requested on short notice. The SDC website has these instructions for submitting an initial request for accomodations: https://sdc.ucdavis.edu/request.",
+
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  }
+]
+
+   
